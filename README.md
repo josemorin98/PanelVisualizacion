@@ -1,4 +1,7 @@
 Catalogos Web Page
 
 Authors:
-Fher Torres
+José Morín
+Armando Barrón
+Xochitl
+Carolina
