@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2015,21,45,C05,Women,2,>65,Puebla,Pue.,47410,22788,24622,11723,21,45,Chalchicomula de Sesma,18.97734204,-97.42970984,1599-Chalchicomula de Sesma,2047,1,48.85197851,4.006
+2015,21,71,C05,Women,2,>65,Puebla,Pue.,103946,48818,55128,27579,21,71,Huauchinango,20.16621141,-98.05173534,1619-Huauchinango,3658,1,27.33734281,2.242
+2015,21,114,C05,Women,2,>65,Puebla,Pue.,1692181,809485,882696,477771,21,114,Puebla,19.00862013,-98.17553518,1765-Puebla,61679,1,1.621297362,0.133

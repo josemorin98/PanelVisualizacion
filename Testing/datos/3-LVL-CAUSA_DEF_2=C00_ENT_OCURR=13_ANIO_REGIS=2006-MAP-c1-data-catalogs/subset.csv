@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2006,13,48,C00,Men,1,>65,Hidalgo,Hgo.,314331,149559,164772,93277,13,48,Pachuca de Soto,20.10208401,-98.78223052,586-Pachuca de Soto,5058,1,19.77066034,1.621

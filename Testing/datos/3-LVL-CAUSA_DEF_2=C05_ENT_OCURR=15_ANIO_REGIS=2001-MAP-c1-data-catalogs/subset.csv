@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2001,15,81,C05,Women,2,>65,M�xico,Mex.,547503,265520,281983,164401,15,81,Tecámac,19.70583651,-98.98650784,753-Tecámac,4363,1,22.92000917,1.879
+2001,15,85,C05,Women,2,45_64,M�xico,Mex.,66414,31897,34517,17314,15,85,Temascalcingo,19.92125743,-100.0370049,58-Temascalcingo,4101,1,24.38429651,4.799

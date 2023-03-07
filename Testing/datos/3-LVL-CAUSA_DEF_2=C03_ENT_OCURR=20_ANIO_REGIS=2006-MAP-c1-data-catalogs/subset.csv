@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2006,20,67,C03,Men,1,>65,Oaxaca,Oax.,270955,125852,145103,74590,20,67,Oaxaca de Juárez,17.10210531,-96.72412007,1500-Oaxaca de Juárez,6035,1,16.57000829,1.359
+2006,20,459,C03,Women,2,>65,Oaxaca,Oax.,4877,2296,2581,1594,20,459,Santiago Chazumba,18.19985559,-97.71938724,1115-Santiago Chazumba,494,1,202.4291498,16.599
+2006,20,64,C03,Men,1,45_64,Oaxaca,Oax.,8494,4167,4327,2382,20,64,Nejapa de Madero,16.6686923,-95.79415893,1555-Nejapa de Madero,614,1,162.8664495,32.052

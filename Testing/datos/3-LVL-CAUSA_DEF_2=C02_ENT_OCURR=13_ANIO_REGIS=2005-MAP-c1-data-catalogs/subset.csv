@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2005,13,41,C02,Men,1,>65,Hidalgo,Hgo.,47222,22625,24597,12705,13,41,Mixquiahuala de Juárez,20.22385342,-99.18072622,572-Mixquiahuala de Juárez,939,1,106.4962726,8.733
+2005,13,51,C02,Men,1,>65,Hidalgo,Hgo.,202749,96259,106490,63897,13,51,Mineral de la Reforma,20.05899051,-98.71970365,544-Mineral de la Reforma,1046,1,95.60229446,7.839
+2005,13,52,C02,Men,1,45_64,Hidalgo,Hgo.,38891,18950,19941,10402,13,52,San Agustín Tlaxiaca,20.09557477,-98.94003559,570-San Agustín Tlaxiaca,1912,1,52.30125523,10.293
+2005,13,76,C02,Men,1,45_64,Hidalgo,Hgo.,115107,55588,59519,33335,13,76,Tula de Allende,20.06412923,-99.3767425,579-Tula de Allende,7035,1,14.21464108,2.797

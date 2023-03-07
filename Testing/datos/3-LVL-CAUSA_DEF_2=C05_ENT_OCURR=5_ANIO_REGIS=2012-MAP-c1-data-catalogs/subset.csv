@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2012,5,6,C05,Women,2,>65,Coahuila de Zaragoza,Coah.,29128,14596,14532,8382,5,6,Castaños,26.58623873,-101.3869252,105-Castaños,881,1,113.507378,9.308
+2012,5,18,C05,Men,1,>65,Coahuila de Zaragoza,Coah.,237951,118058,119893,69906,5,18,Monclova,26.89685678,-101.194394,129-Monclova,6255,1,15.98721023,1.311
+2012,5,30,C05,Men,1,>65,Coahuila de Zaragoza,Coah.,879958,437792,442166,242663,5,30,Saltillo,25.02914759,-101.1251087,104-Saltillo,17893,1,5.588777734,0.458

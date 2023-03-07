@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2002,24,28,C01,Men,1,>65,San Luis Potos�,SLP,911908,440897,471011,259503,24,28,San Luis Potosí,22.27047901,-100.9608884,1834-San Luis Potosí,14574,1,6.861534239,0.563
+2002,24,53,C01,Men,1,>65,San Luis Potos�,SLP,32544,15917,16627,8507,24,53,Axtla de Terrazas,21.42618037,-98.86921307,1809-Axtla de Terrazas,938,1,106.6098081,8.742

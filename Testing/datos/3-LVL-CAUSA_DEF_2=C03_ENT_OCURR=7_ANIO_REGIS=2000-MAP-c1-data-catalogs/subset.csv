@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2000,7,71,C03,Men,1,>65,Chiapas,Chis.,30297,15578,14719,7682,7,71,Villa Comaltitlán,15.16542249,-92.61956647,239-Villa Comaltitlán,628,1,159.2356688,13.057
+2000,7,99,C03,Women,2,25_44,Chiapas,Chis.,83111,40112,42999,20865,7,99,La Trinitaria,16.02444312,-91.89940023,154-La Trinitaria,7742,1,12.91655903,3.782

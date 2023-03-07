@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2005,15,37,C03,Women,2,>65,M�xico,Mex.,284965,136466,148499,82051,15,37,Huixquilucan,19.38310082,-99.3395276,739-Huixquilucan,4758,1,21.01723413,1.723
+2005,15,85,C03,Men,1,45_64,M�xico,Mex.,66414,31897,34517,17314,15,85,Temascalcingo,19.92125743,-100.0370049,58-Temascalcingo,4071,1,24.56398919,4.834

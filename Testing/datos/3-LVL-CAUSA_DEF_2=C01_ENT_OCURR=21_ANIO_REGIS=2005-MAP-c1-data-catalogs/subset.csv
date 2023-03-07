@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2005,21,25,C01,Men,1,>65,Puebla,Pue.,8208,3968,4240,2318,21,25,Ayotoxco de Guerrero,20.08398986,-97.40878099,1582-Ayotoxco de Guerrero,220,1,454.5454545,37.273

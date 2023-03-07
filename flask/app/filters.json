@@ -1,0 +1,21 @@
+[{
+    "id": "grafo",
+    "text": "grafo",
+    "children": [{
+        "id": "Folder_1",
+        "text": "Folder_1",
+        "children": [{
+            "id": "Graph/Folder_1/Hombres",
+            "text": "Hombres"
+        }, {
+            "id": "Graph/Folder_1/Mujeres",
+            "text": "Mujeres"
+        }, {
+            "id": "Graph/Folder_1/Total",
+            "text": "Total"
+        }]
+    }]
+}, {
+    "id": "Map",
+    "text": "Map"
+}]

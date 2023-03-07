@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2002,21,49,C05,Men,1,>65,Puebla,Pue.,17382,8464,8918,4082,21,49,Chiconcuautla,20.08875464,-97.96598298,1601-Chiconcuautla,284,1,352.1126761,28.873
+2002,21,130,C05,Women,2,>65,Puebla,Pue.,3604,1660,1944,964,21,130,San Juan Atenco,19.04706887,-97.55189065,1664-San Juan Atenco,208,1,480.7692308,39.423
+2002,21,214,C05,Men,1,>65,Puebla,Pue.,18359,8781,9578,4409,21,214,Zinacatepec,18.32743779,-97.2224726,1760-Zinacatepec,360,1,277.7777778,22.778
+2002,21,68,C05,Women,2,45_64,Puebla,Pue.,7011,3378,3633,1996,21,68,Hermenegildo Galeana,20.11676429,-97.73118241,1616-Hermenegildo Galeana,538,1,185.8736059,36.58

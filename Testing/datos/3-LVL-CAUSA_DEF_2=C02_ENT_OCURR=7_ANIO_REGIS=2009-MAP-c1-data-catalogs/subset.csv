@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2009,7,34,C02,Men,1,>65,Chiapas,Chis.,80897,39159,41738,20195,7,34,Frontera Comalapa,15.76265142,-92.08776684,184-Frontera Comalapa,1590,1,62.89308176,5.157
+2009,7,101,C02,Women,2,>65,Chiapas,Chis.,604147,287524,316623,166210,7,101,Tuxtla Gutiérrez,16.73944748,-93.13729383,153-Tuxtla Gutiérrez,14268,2,14.01738155,1.149
+2009,7,53,C02,Men,1,45_64,Chiapas,Chis.,7901,3895,4006,1695,7,53,Mazapa de Madero,15.37276629,-92.18576379,252-Mazapa de Madero,554,1,180.5054152,35.523

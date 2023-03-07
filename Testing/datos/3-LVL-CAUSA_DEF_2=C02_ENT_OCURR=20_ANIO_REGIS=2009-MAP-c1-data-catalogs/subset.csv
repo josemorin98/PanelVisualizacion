@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2009,20,525,C02,Men,1,>65,Oaxaca,Oax.,12483,6150,6333,3819,20,525,Santo Domingo Zanatepec,16.46449652,-94.33233834,1161-Santo Domingo Zanatepec,531,1,188.3239171,15.443
+2009,20,79,C02,Women,2,45_64,Oaxaca,Oax.,84438,40443,43995,25593,20,79,Salina Cruz,16.19338941,-95.21957567,1299-Salina Cruz,7835,1,12.76324186,2.512
+2009,20,177,C02,Women,2,45_64,Oaxaca,Oax.,10365,5141,5224,3132,20,177,San Juan Bautista Cuicatlán,17.74116787,-96.96902211,1010-San Juan Bautista Cuicatlán,831,1,120.3369434,23.682

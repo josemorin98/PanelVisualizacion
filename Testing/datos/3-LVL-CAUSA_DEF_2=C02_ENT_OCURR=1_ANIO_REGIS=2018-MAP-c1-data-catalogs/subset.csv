@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2018,1,1,C02,Men,1,>65,Aguascalientes,Ags.,948990,462073,486917,266942,1,1,Aguascalientes,21.81143623,-102.2958029,3-Aguascalientes,24674,1,4.052849153,0.332
+2018,1,6,C02,Women,2,45_64,Aguascalientes,Ags.,47646,23377,24269,11470,1,6,Pabellón de Arteaga,22.10454236,-102.3016772,11-Pabellón de Arteaga,3963,1,25.23340903,4.966

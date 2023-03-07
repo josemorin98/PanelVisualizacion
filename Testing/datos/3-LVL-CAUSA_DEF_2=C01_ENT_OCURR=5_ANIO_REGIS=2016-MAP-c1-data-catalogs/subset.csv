@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2016,5,24,C01,Women,2,>65,Coahuila de Zaragoza,Coah.,44472,22534,21938,12735,5,24,Parras,25.50387172,-102.114668,123-Parras,1821,1,54.91488193,4.503
+2016,5,35,C01,Men,1,>65,Coahuila de Zaragoza,Coah.,720848,351753,369095,215134,5,35,Torreón,25.17007521,-103.2489193,112-Torreón,20765,1,4.81579581,0.395
+2016,5,35,C01,Women,2,>65,Coahuila de Zaragoza,Coah.,720848,351753,369095,215134,5,35,Torreón,25.17007521,-103.2489193,112-Torreón,26534,1,3.768749529,0.309

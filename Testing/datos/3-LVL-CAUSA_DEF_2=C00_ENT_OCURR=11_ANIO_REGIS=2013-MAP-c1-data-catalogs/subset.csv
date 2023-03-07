@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2013,11,18,C00,Men,1,>65,Guanajuato,Gto.,38782,18847,19935,9998,11,18,Jaral del Progreso,20.35879709,-101.0520887,424-Jaral del Progreso,1502,1,66.57789614,5.459
+2013,11,27,C00,Women,2,>65,Guanajuato,Gto.,273417,132278,141139,74992,11,27,Salamanca,20.62511012,-101.1650961,419-Salamanca,9664,1,10.34768212,0.849
+2013,11,39,C00,Men,1,>65,Guanajuato,Gto.,35905,17400,18505,10198,11,39,Tarimoro,20.29673593,-100.7414966,401-Tarimoro,1730,1,57.80346821,4.74

@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2012,23,1,C02,Men,1,>65,Quintana Roo,Q. Roo,88626,44415,44211,26424,23,1,Cozumel,20.44482991,-86.90888992,1796-Cozumel,1483,1,67.43088334,5.529
+2012,23,4,C02,Men,1,>65,Quintana Roo,Q. Roo,233648,115096,118552,70782,23,4,Othón P. Blanco,18.50861574,-88.4669667,1801-Othón P. Blanco,6499,1,15.38698261,1.262

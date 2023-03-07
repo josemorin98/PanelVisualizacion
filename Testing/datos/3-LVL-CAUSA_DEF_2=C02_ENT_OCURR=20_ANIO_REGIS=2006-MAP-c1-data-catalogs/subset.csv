@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2006,20,24,C02,Women,2,>65,Oaxaca,Oax.,3644,1847,1797,1024,20,24,Cuyamecalco Villa de Zaragoza,17.96612996,-96.85730831,1331-Cuyamecalco Villa de Zaragoza,207,1,483.0917874,39.614
+2006,20,111,C02,Women,2,45_64,Oaxaca,Oax.,4873,2316,2557,1125,20,111,San Antonio Tepetlapa,16.54069891,-98.04782928,1028-San Antonio Tepetlapa,273,1,366.3003663,72.088

@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2017,20,277,C01,Men,1,>65,Oaxaca,Oax.,12350,5955,6395,3221,20,277,Villa Sola de Vega,16.51321122,-97.05817961,1491-Villa Sola de Vega,539,1,185.528757,15.213
+2017,20,385,C01,Men,1,>65,Oaxaca,Oax.,100402,47016,53386,27498,20,385,Santa Cruz Xoxocotlán,17.01902122,-96.74859525,1440-Santa Cruz Xoxocotlán,2000,1,50.0,4.1

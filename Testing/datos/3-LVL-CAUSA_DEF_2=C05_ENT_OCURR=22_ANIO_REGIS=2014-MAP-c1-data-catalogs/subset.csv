@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2014,22,14,C05,Men,1,>65,Quer�taro,Qro.,1049777,514589,535188,305518,22,14,Querétaro,20.72880538,-100.4527103,1787-Querétaro,19653,1,5.088281687,0.417
+2014,22,11,C05,Men,1,45_64,Quer�taro,Qro.,231668,115483,116185,67968,22,11,El Marqués,20.72022829,-100.2786175,1786-El Marqués,9237,1,10.82602577,2.131

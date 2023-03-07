@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2003,20,67,C03,Women,2,>65,Oaxaca,Oax.,270955,125852,145103,74590,20,67,Oaxaca de Juárez,17.10210531,-96.72412007,1500-Oaxaca de Juárez,8463,1,11.81614085,0.969

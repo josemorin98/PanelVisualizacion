@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2019,7,71,C03,Men,1,>65,Chiapas,Chis.,30297,15578,14719,7682,7,71,Villa Comaltitlán,15.16542249,-92.61956647,239-Villa Comaltitlán,1274,1,78.49293564,6.436

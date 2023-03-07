@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2010,18,2,C02,Men,1,45_64,Nayarit,Nay.,15393,7639,7754,4824,18,2,Ahuacatlán,21.04111245,-104.5763435,919-Ahuacatlán,1391,1,71.8907261,14.148
+2010,18,17,C02,Men,1,25_44,Nayarit,Nay.,425924,207092,218832,126275,18,17,Tepic,21.62158999,-104.8404865,930-Tepic,54508,1,1.834593087,0.537

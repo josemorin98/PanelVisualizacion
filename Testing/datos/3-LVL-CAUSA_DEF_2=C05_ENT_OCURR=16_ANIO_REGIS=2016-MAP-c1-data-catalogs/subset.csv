@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2016,16,35,C05,Men,1,>65,Michoac�n de Ocampo,Mich.,30627,15173,15454,8402,16,35,La Huacana,18.84195916,-101.9211609,785-La Huacana,1492,1,67.02412869,5.496
+2016,16,53,C05,Men,1,>65,Michoac�n de Ocampo,Mich.,849053,407129,441924,244509,16,53,Morelia,19.66658131,-101.2791185,835-Morelia,22802,1,4.385580212,0.36

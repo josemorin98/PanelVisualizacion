@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2017,13,30,C05,Men,1,>65,Hidalgo,Hgo.,98654,46440,52214,26601,13,30,Ixmiquilpan,20.53251507,-99.20132324,529-Ixmiquilpan,2759,1,36.24501631,2.972
+2017,13,77,C05,Men,1,>65,Hidalgo,Hgo.,168369,79767,88602,45979,13,77,Tulancingo de Bravo,20.12360121,-98.35093969,592-Tulancingo de Bravo,4053,1,24.67308167,2.023
+2017,13,5,C05,Men,1,45_64,Hidalgo,Hgo.,18872,9108,9764,5174,13,5,Ajacuba,20.11982645,-99.07802825,591-Ajacuba,1756,1,56.9476082,11.207

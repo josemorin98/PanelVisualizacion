@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2015,29,30,C02,Women,2,>65,Tlaxcala,Tlax.,15475,7684,7791,3774,29,30,Terrenate,19.48399399,-97.93446834,2039-Terrenate,452,1,221.2389381,18.142
+2015,29,10,C02,Men,1,45_64,Tlaxcala,Tlax.,73215,35251,37964,18706,29,10,Chiautempan,19.28975994,-98.13110566,2020-Chiautempan,6134,1,16.30257581,3.208

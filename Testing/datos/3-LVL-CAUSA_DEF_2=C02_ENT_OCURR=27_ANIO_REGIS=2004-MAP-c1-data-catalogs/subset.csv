@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2004,27,4,C02,Men,1,>65,Tabasco,Tab.,683607,330080,353527,197683,27,4,Centro,18.00910356,-92.8602107,1968-Centro,10717,2,18.66193898,1.53
+2004,27,5,C02,Men,1,>65,Tabasco,Tab.,214877,105283,109594,58320,27,5,Comalcalco,18.28692896,-93.33669765,1967-Comalcalco,3778,1,26.46903123,2.17

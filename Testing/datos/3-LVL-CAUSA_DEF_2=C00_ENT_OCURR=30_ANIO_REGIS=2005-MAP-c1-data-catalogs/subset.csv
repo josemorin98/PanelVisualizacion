@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2005,30,47,C00,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,59471,28715,30756,14328,30,47,Coscomatepec,19.05332286,-97.08946644,2118-Coscomatepec,1058,1,94.51795841,7.75
+2005,30,118,C00,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,123182,56740,66442,37722,30,118,Orizaba,18.85586189,-97.10480787,2189-Orizaba,4716,1,21.20441052,1.739
+2005,30,193,C00,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,607209,287664,319545,202144,30,193,Veracruz,19.18582634,-96.22166824,2264-Veracruz,12882,1,7.762769756,0.637
+2005,30,87,C00,Men,1,25_44,Veracruz de Ignacio de la Llave,Ver.,488531,226821,261710,151306,30,87,Xalapa,19.54385763,-96.88833353,2158-Xalapa,58791,1,1.70094062,0.498

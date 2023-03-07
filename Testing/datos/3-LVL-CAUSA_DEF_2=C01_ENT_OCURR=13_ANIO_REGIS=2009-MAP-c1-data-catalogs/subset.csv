@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2009,13,14,C01,Men,1,>65,Hidalgo,Hgo.,16150,7744,8406,4738,13,14,Calnali,20.90605589,-98.54849083,519-Calnali,803,1,124.5330012,10.212
+2009,13,25,C01,Men,1,>65,Hidalgo,Hgo.,20673,9861,10812,5544,13,25,Huautla,21.03825624,-98.24714397,525-Huautla,1155,1,86.58008658,7.1
+2009,13,67,C01,Men,1,>65,Hidalgo,Hgo.,55134,27089,28045,14843,13,67,Tezontepec de Aldama,20.17886959,-99.29328099,573-Tezontepec de Aldama,1343,1,74.46016381,6.106

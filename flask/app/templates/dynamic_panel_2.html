@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" /> {% include "title.html" %}
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='plugins/fontawesome-free/css/all.min.css') }}" />
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
+    <!-- Tempusdominus Bootstrap 4 -->
+    <link rel="stylesheet"
+        href="{{ url_for('static',filename='plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css') }}" />
+    <!-- iCheck -->
+    <link rel="stylesheet"
+        href="{{ url_for('static',filename='plugins/icheck-bootstrap/icheck-bootstrap.min.css') }}" />
+    <!-- JQVMap -->
+    <link rel="stylesheet" href="{{ url_for('static',filename='plugins/jqvmap/jqvmap.min.css') }}" />
+    <!-- Theme style -->
+    <link rel="stylesheet" href="{{ url_for('static',filename='dist/css/adminlte.min.css') }}" />
+    <!-- overlayScrollbars -->
+    <link rel="stylesheet"
+        href="{{ url_for('static',filename='plugins/overlayScrollbars/css/OverlayScrollbars.min.css') }}" />
+    <!-- Daterange picker -->
+    <link rel="stylesheet" href="{{ url_for('static',filename='plugins/daterangepicker/daterangepicker.css') }}" />
+    <!-- summernote -->
+    <link rel="stylesheet" href="{{ url_for('static',filename='plugins/summernote/summernote-bs4.min.css') }}" />
+    <!-- Magnific popup-->
+    <link rel="stylesheet" href="{{ url_for('static',filename='dist/magnific-popup/magnific-popup.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static',filename='dist/css/style.css') }}" />
+</head>
+
+<body class="hold-transition sidebar-mini layout-fixed">
+    <div class="wrapper">
+        <!-- Preloader -->
+        <div class="preloader flex-column justify-content-center align-items-center">
+            <img class="animation__shake" src="{{ url_for('static',filename='dist/img/AdminLTELogo.png') }}"
+                alt="AdminLTELogo" height="60" width="60" />
+        </div>
+
+        <!-- Navbar -->
+        {% include "navbar.html" %}
+        <!-- /.navbar -->
+
+        <!-- Main Sidebar Container -->
+        {% include "sidebar.html" %}
+        <!-- Content Wrapper. Contains page content -->
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            <div class="content-header">
+                <div class="container-fluid">
+                    <div class="row mb-2">
+                        <div class="col-sm-6">
+                            <h1 class="m-0">Dashboard</h1>
+                        </div>
+                        <!-- /.col -->
+                        <div class="col-sm-6">
+                            <ol class="breadcrumb float-sm-right">
+                                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                                <li class="breadcrumb-item active">Dashboard v1</li>
+                            </ol>
+                        </div>
+                        <!-- /.col -->
+                    </div>
+                    <!-- /.row -->
+                </div>
+                <!-- /.container-fluid -->
+            </div>
+            <!-- /.content-header -->
+
+            <!-- Main content -->
+            <section class="content">
+                <div class="container-fluid">
+                    <!-- /.row -->
+                    <!-- Small boxes (Stat box) -->
+                    <div class="row">
+                        <!-- ./col -->
+                        <div class="col-lg-12 col-6">
+                            <!-- small box -->
+                            <div class="card card-primary">
+                                <div class="card-header">
+                                    <h3 class="card-title"><b>Productos</b></h3>
+                                </div>
+                                <!-- /.card-header -->
+                                <!-- form start -->
+                                <form id="filter">
+                                    <div class="card-body">
+                                        <!--<div class="row">
+                                            <div class="col-sm-1">
+                                                <label>Producto</label>
+                                            </div>
+                                            <div class="col-sm-2">
+                                                <div class="form-group">
+                                                    <div class="custom-control custom-radio">
+                                                        <input class="custom-control-input" type="checkbox" id="graph" name="x" value="Graph" autocomplete="off" />
+                                                        <label for="graph" class="custom-control-label">Graph</label>
+                                                    </div>
+                                                    <div class="custom-control custom-radio">
+                                                        <input class="custom-control-input" type="checkbox" id="map" name="x" value="Map" autocomplete="off" />
+                                                        <label for="map" class="custom-control-label">Map</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <div class="custom-control custom-radio">
+                                                        <input class="custom-control-input" type="radio" id="100k" name="populationRadio" />
+                                                        <label for="100k" class="custom-control-label">100k</label>
+                                                    </div>
+                                                    <div class="custom-control custom-radio">
+                                                        <input class="custom-control-input" type="radio" id="10k" name="populationRadio" />
+                                                        <label for="10k" class="custom-control-label">10k</label>
+                                                    </div>
+
+                                                    <div class="custom-control custom-radio">
+                                                        <input class="custom-control-input" type="radio" id="percentage" name="populationRadio" />
+                                                        <label for="percentage" class="custom-control-label">%</label>
+                                                    </div>
+
+                                                    <div class="custom-control custom-radio">
+                                                        <input class="custom-control-input" type="radio" id="accumulative" name="populationRadio" checked />
+                                                        <label for="accumulative" class="custom-control-label">Accum.</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>-->
+                                        <!--<div class=row>
+                                            <div class="col-sm-1">
+                                                <label>Sexo</label>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="row">
+                                                    <div class="custom-control custom-radio">
+                                                        <input class="custom-control-input" type="checkbox" id="hombres" name="y" value="Hombres" autocomplete="off" />
+                                                        <label for="hombres" class="custom-control-label">Hombres</label>
+                                                    </div>
+                                                    <div class="custom-control custom-radio">
+                                                        <input class="custom-control-input" type="checkbox" id="mujeres" name="y" value="Mujeres" autocomplete="off" />
+                                                        <label for="mujeres" class="custom-control-label">Mujeres</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="container">
+
+                                        </div>-->
+
+                                        <div id="select_container">
+                                            <div class="row">
+                                                <div class="col-4">
+                                                    <label>{{levels[0]}}</label>
+                                                    <select class="form-control" id="x_select" name="{{levels[0]}}">
+                                                        <option value="0" selected>Selecciona una opción...</option>
+                                                        {% for i in data %}
+                                                        <option>{{i}}</option>
+                                                        {% endfor %}
+                                                    </select>
+                                                </div>
+                                                <div class="col-4">
+                                                    <label>{{levels[1]}}</label>
+                                                    <select class="form-control" id="y_select" name="{{levels[1]}}">
+                                                        <option value="0">Selecciona una opción...</option>
+                                                    </select>
+                                                </div>
+                                                <div class="col-4">
+                                                    <label>{{levels[2]}}</label>
+                                                    <select class="form-control" id="z_select" name="{{levels[2]}}">
+                                                        <option value="0">Selecciona una opción...</option>
+                                                    </select>
+                                                </div>
+                                                <div class="col-4">
+                                                    <label>Filtro</label>
+                                                    <select class="form-control" id="a_select" name="filtro">
+                                                        <option value="0">mapas y graficas</option>
+                                                        <option value="1">mapas</option>
+                                                        <option value="2">graficas</option>
+                                                    </select>
+                                                </div>
+                                                <div class="col-4" style="margin-top: 5px;">
+                                                    <label>Vista:</label>
+                                                    <br>
+                                                    <input type="radio" name="vista" value="0" checked> Mosaico
+                                                    <br>
+                                                    <input type="radio" name="vista" value="1"> Galería
+                                                </div>
+                                                <!--<div class="col-4">
+                                                    <label>Select</label>
+                                                    <select class="form-control" id="z_select" name="z_select">
+                                                    <label>{{levels[2]}}</label>
+                                                    <select class="form-control" id="z_select" name="{{levels[2]}}">
+                                                        <option value="0">Selecciona una opción...</option>
+                                                </select>
+                                                </div>
+                                                -->
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                    <div id="canvas">
+                                    </div>
+                            </div>
+                    <!--/.card-body -->
+
+                        </form>
+                    </div>
+                    <!-- /.card -->
+                    <!-- ./col -->
+
+                    <!-- ./col -->
+                </div>
+                <!-- /.row -->
+                <!-- Main row -->
+        </div>
+        <!-- /.container-fluid -->
+        </section>
+        <!-- /.content -->
+    </div>
+    <!-- /.content-wrapper -->
+
+    <!-- Control Sidebar -->
+    <aside class="control-sidebar control-sidebar-dark">
+        <!-- Control sidebar content goes here -->
+    </aside>
+    <!-- /.control-sidebar -->
+    </div>
+    <!-- ./wrapper -->
+
+    <!-- jQuery -->
+    <script src="{{ url_for('static',filename='plugins/jquery/jquery.min.js') }}"></script>
+    <!-- jQuery UI 1.11.4 -->
+    <script src="{{ url_for('static',filename='plugins/jquery-ui/jquery-ui.min.js') }}"></script>
+    <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+    <script>
+        $.widget.bridge('uibutton', $.ui.button)
+    </script>
+    <!-- Bootstrap 4 -->
+    <script src="{{ url_for('static',filename='plugins/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+    <!-- ChartJS -->
+    <script src="{{ url_for('static',filename='plugins/chart.js/Chart.min.js') }}"></script>
+    <!-- Sparkline -->
+    <script src="{{ url_for('static',filename='plugins/sparklines/sparkline.js') }}"></script>
+    <!-- JQVMap -->
+    <script src="{{ url_for('static',filename='plugins/jqvmap/jquery.vmap.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='plugins/jqvmap/maps/jquery.vmap.usa.js') }}"></script>
+    <!-- jQuery Knob Chart -->
+    <script src="{{ url_for('static',filename='plugins/jquery-knob/jquery.knob.min.js') }}"></script>
+    <!-- daterangepicker -->
+    <script src="{{ url_for('static',filename='plugins/moment/moment.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='plugins/daterangepicker/daterangepicker.js') }}"></script>
+    <!-- Tempusdominus Bootstrap 4 -->
+    <script
+        src="{{ url_for('static',filename='plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js') }}"></script>
+    <!-- Summernote -->
+    <script src="{{ url_for('static',filename='plugins/summernote/summernote-bs4.min.js') }}"></script>
+    <!-- overlayScrollbars -->
+    <script
+        src="{{ url_for('static',filename='plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js') }}"></script>
+    <!-- AdminLTE App -->
+    <script src="{{ url_for('static',filename='dist/js/adminlte.js') }}"></script>
+    <!-- AdminLTE for demo purposes -->
+    <script src="{{ url_for('static',filename='dist/js/demo.js') }}"></script>
+    <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
+    <script src="{{ url_for('static',filename='dist/js/pages/dashboard.js') }}"></script>
+    <!-- FLOT CHARTS -->
+    <script src="{{ url_for('static',filename='plugins/flot/jquery.flot.js') }}"></script>
+    <!-- FLOT RESIZE PLUGIN - allows the chart to redraw when the window is resized -->
+    <script src="{{ url_for('static',filename='plugins/flot/plugins/jquery.flot.resize.js') }}"></script>
+    <!-- FLOT PIE PLUGIN - also used to draw donut charts -->
+    <script src="{{ url_for('static',filename='plugins/flot/plugins/jquery.flot.pie.js') }}"></script>
+    <!-- AdminLTE App -->
+    <!--<script src="{{ url_for('static',filename='dist/js/adminlte.min.js') }}"></script>-->
+    <script src="{{ url_for('static',filename='dist/apexcharts/apexcharts.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='dist/mapa/jquery.maphighlight.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='dist/treejs-master/dist/tree.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='dist/treejs-master/dist/tree.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='dist/magnific-popup/jquery.magnific-popup.js') }}"></script>
+    <script src="{{ url_for('static',filename='dist/js/render.js') }}"></script>
+    <script src="{{ url_for('static',filename='dist/csvtotable/csv.min.js') }}"></script>
+    
+    <script>
+        var formatsConfig = {
+            "img": ["jpg", "jpeg", "png"],
+            "html": ["html"],
+            "table": ["csv"]
+        };
+
+        var viewType = "0";
+        var globalPaths = new Array();
+        var globalFrames = new Array();
+        var globalTotalProducts = 0;
+
+
+        function createPanelsCarousel(totalPlots, frames, paths){
+
+            let carouselId = createCarousel();
+            let carouselContainer = document.getElementById(carouselId);
+            
+            let carouselItem = document.createElement('div');
+            carouselItem.setAttribute('class','carousel-item active');
+
+            let cardDiv = document.createElement('div');
+            cardDiv.setAttribute('class', 'card card-primary');
+            cardDiv.setAttribute('id', 'card_primary' + 0 + '-');
+            carouselItem.appendChild(cardDiv);
+
+            let cardBodyDiv = document.createElement('div');
+            cardBodyDiv.setAttribute('class', 'card-body');
+            cardBodyDiv.setAttribute('id', 'card_body');
+            cardDiv.appendChild(cardBodyDiv);
+            
+            cardBodyDiv.appendChild(frames[0]);
+
+            let inputElement = document.createElement('input');
+            inputElement.type = "button";
+
+            inputElement.addEventListener('click', function () {
+                event.preventDefault();
+                clickHandler(paths[0]);
+            });
+
+            cardDiv.appendChild(inputElement);
+            
+            carouselContainer.appendChild(carouselItem);
+            
+            for (let i = 1; i < totalPlots; i++) {
+
+
+                let carouselItem = document.createElement('div');
+                carouselItem.setAttribute('class','carousel-item');
+
+
+                let cardDiv = document.createElement('div');
+                cardDiv.setAttribute('class', 'card card-primary');
+                cardDiv.setAttribute('id', 'card_primary' + i + '-');
+                carouselItem.appendChild(cardDiv);
+
+                let cardBodyDiv = document.createElement('div');
+                cardBodyDiv.setAttribute('class', 'card-body');
+                cardBodyDiv.setAttribute('id', 'card_body');
+                cardDiv.appendChild(cardBodyDiv);
+                
+                cardBodyDiv.appendChild(frames[i]);
+                
+                
+                let inputElement = document.createElement('input');
+                inputElement.type = "button";
+                cardDiv.appendChild(inputElement);
+
+                inputElement.addEventListener('click', function () {
+                    event.preventDefault();
+                    clickHandler(paths[i]);
+                });
+
+                carouselContainer.appendChild(carouselItem);
+                
+
+
+
+            }
+            
+
+            
+
+        }
+
+        function createCarousel() {
+
+            let canvas = document.getElementById('canvas');
+            canvas.innerHTML = '';
+            //<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="width: 700px; margin: 0 auto">
+            let carousel = document.createElement('div');
+            carousel.setAttribute('id', 'carouselExampleControls');
+            carousel.setAttribute('class','carousel slide');
+            carousel.setAttribute('data-ride', 'carousel');
+            carousel.setAttribute('style', 'width: 700px; margin: 0 auto');
+
+                //<div class="carousel-inner" id="carouselContainer">
+            let carouselContainerId = 'carouselContainer';
+            let carouselContainer = document.createElement('div');
+            carouselContainer.setAttribute('class', 'carousel-inner');
+            carouselContainer.setAttribute('id', carouselContainerId);
+
+            /*<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only" style="color:black">Previous</span>
+            </a>*/
+
+            let prevArrow = document.createElement('a');
+            prevArrow.setAttribute('class', 'carousel-control-prev');
+            prevArrow.setAttribute('href','#carouselExampleControls');
+            prevArrow.setAttribute('role', 'button');
+            prevArrow.setAttribute('data-slide', 'prev');
+            let prevArrowSpan1 = document.createElement('span');
+            prevArrowSpan1.setAttribute('class', 'carousel-control-prev-icon');
+            prevArrowSpan1.setAttribute('aria-hidden', 'true');
+            prevArrow.appendChild(prevArrowSpan1);
+            let prevArrowSpan2 = document.createElement('span');
+            prevArrowSpan2.setAttribute('class', 'sr-only');
+            prevArrow.appendChild(prevArrowSpan2);
+
+
+            /*<a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>*/
+
+            let nextArrow = document.createElement('a');
+            nextArrow.setAttribute('class', 'carousel-control-next');
+            nextArrow.setAttribute('href','#carouselExampleControls');
+            nextArrow.setAttribute('role', 'button');
+            nextArrow.setAttribute('data-slide', 'next');
+            let nextArrowSpan1 = document.createElement('span');
+            nextArrowSpan1.setAttribute('class', 'carousel-control-next-icon');
+            nextArrowSpan1.setAttribute('aria-hidden', 'true');
+            nextArrow.appendChild(nextArrowSpan1);
+            let nextArrowSpan2 = document.createElement('span');
+            nextArrowSpan2.setAttribute('class', 'sr-only');
+            nextArrow.appendChild(nextArrowSpan2);
+
+            carousel.appendChild(carouselContainer);
+            carousel.appendChild(prevArrow);
+            carousel.appendChild(nextArrow);
+
+            canvas.appendChild(carousel);
+
+            return carouselContainerId;
+
+
+
+
+
+        } 
+        function createPanels(totalPlots, frames, paths) {
+        
+        
+            var plotsByRow = 2;
+            var plotSize = 'col-sm-5';
+            var framesWidth = "600";
+            var framesHeight = "400";
+
+            var canvasDiv = document.getElementById('canvas');
+            canvasDiv.innerHTML = "";
+
+
+
+            var totalRows = Math.floor(totalPlots / plotsByRow);
+            var extraPlots = totalPlots % plotsByRow;
+
+            var counter = 0;
+            for (let i = 0; i < totalRows; i++) {
+
+                let rowDiv = document.createElement('div');
+                rowDiv.setAttribute('class', 'row')
+                rowDiv.setAttribute('id', 'row' + i);
+                canvasDiv.appendChild(rowDiv);
+
+                for (let j = 0; j < plotsByRow; j++) {
+
+                    let colDiv = document.createElement('div');
+                    colDiv.setAttribute('class', plotSize)
+                    colDiv.setAttribute('id', 'col' + i + '-' + j);
+                    rowDiv.appendChild(colDiv);
+
+                    let cardDiv = document.createElement('div');
+                    cardDiv.setAttribute('class', 'card card-primary');
+                    cardDiv.setAttribute('id', 'card_primary' + i + '-' + j);
+                    colDiv.appendChild(cardDiv);
+
+                    let cardBodyDiv = document.createElement('div');
+                    cardBodyDiv.setAttribute('class', 'card-body');
+                    cardBodyDiv.setAttribute('id', 'card_body');
+                    cardDiv.appendChild(cardBodyDiv);
+                    
+                    cardBodyDiv.appendChild(frames[counter]);
+
+                    let inputElement = document.createElement('input');
+                    inputElement.type = "button";
+                    let src = paths[counter];
+                    inputElement.addEventListener('click', function () {
+                        event.preventDefault();
+                        clickHandler(src);
+                    });
+                    cardDiv.appendChild(inputElement);
+
+
+                    counter += 1;
+
+
+                }
+
+
+            }
+
+            let rowDiv = document.createElement('div');
+            rowDiv.setAttribute('class', 'row')
+            rowDiv.setAttribute('id', 'row' + totalRows);
+            canvasDiv.appendChild(rowDiv);
+
+            for (let i = 0; i < extraPlots; i++) {
+
+                let colDiv = document.createElement('div');
+                colDiv.setAttribute('class', plotSize)
+                colDiv.setAttribute('id', 'col' + totalRows + '-' + i);
+                rowDiv.appendChild(colDiv);
+
+                let cardDiv = document.createElement('div');
+                cardDiv.setAttribute('class', 'card card-primary');
+                cardDiv.setAttribute('id', 'card_primary' + totalRows + '-' + i);
+                colDiv.appendChild(cardDiv);
+
+                let cardBodyDiv = document.createElement('div');
+                cardBodyDiv.setAttribute('class', 'card-body');
+                cardBodyDiv.setAttribute('id', 'card_body');
+                cardDiv.appendChild(cardBodyDiv);
+
+                cardBodyDiv.appendChild(frames[counter]);
+
+                let inputElement = document.createElement('input');
+                inputElement.type = "button"
+                let src = paths[counter];
+                inputElement.addEventListener('click', function () {
+                    event.preventDefault();
+                    clickHandler(src);
+                });
+                cardDiv.appendChild(inputElement);
+
+                counter += 1;
+
+
+            }
+
+        }
+
+
+        function clickHandler(path) {
+            $.magnificPopup.open({
+                items: {
+                    src: path
+                },
+                type: 'iframe'
+            });
+
+        }
+
+        $(document).ready(function () {
+
+            $('#x_select').on('change', function () {
+                let paths = new Array();
+                let path = "1-LVL-" + this.name + "=" + this.value + "-subtask-c3-regression_serv";
+                paths.push(path);
+                path = "1-LVL-" + this.name + "=" + this.value + "-subtask-c5-charts-sv";
+                paths.push(path);
+                path = "1-LVL-" + this.name + "=" + this.value + "-subtask-c8-maps";
+                paths.push(path);
+                path = "1-LVL-" + this.name + "=" + this.value + "-subtask-c10-DST";
+                paths.push(path);
+                path = "1-LVL-" + this.name + "=" + this.value + "-MAP-c1-data-catalogs";
+                paths.push(path);
+                $("#y_select").find('option').not(':first').remove();
+                $("#z_select").find('option').not(':first').remove();
+                getJSON(1, this.value);
+                get_panels(paths);
+            });
+
+            $('#y_select').on('change', function () {
+
+                let paths = new Array();
+                let xVal = $('#x_select');
+                let path = "2-LVL-" + xVal.attr('name') + "=" + xVal.find(":selected").val() + "_" + this.name + "=" + this.value + '-subtask-c3-regression_serv';
+                paths.push(path);
+                $("#z_select").find('option').not(':first').remove();
+                getJSON(2, this.value);
+                get_panels(paths)
+            });
+
+            $('#z_select').on('change', function () {
+                console.log("log de z select");
+                let x = $('#x_select')
+                let y = $('#y_select')
+                let z = $('#z_select')
+                //let path = x + "/" + y + "/" + z;
+                let paths = new Array();
+
+                let path = "3-LVL-" + x.attr('name') + "=" + x.find(":selected").val() + "_"+y.attr('name') + "=" + y.find(":selected").val() +"_" + this.name + "=" + this.value + '-subtask-c9-charts-sv';
+                paths.push(path);
+                get_panels(paths);
+            });
+
+        });
+
+
+
+
+        function loadingScreen(){
+
+            let canvas = document.getElementById('canvas');
+            canvas.innerHTML = '';
+            let spinnerDiv = document.createElement('div');
+            spinnerDiv.setAttribute('class', 'spinner-border');
+            spinnerDiv.setAttribute('role', 'stauts');
+
+            let spinnerSpan = document.createElement('span');
+            spinnerSpan.setAttribute('class', 'sr-only')
+            spinnerSpan.innerHTML = "Cargando...";
+
+            spinnerDiv.appendChild(spinnerSpan);
+            canvas.appendChild(spinnerDiv);
+
+        }
+
+        function get_panels(paths) {
+            
+            loadingScreen();
+            $.ajax({
+                url: "/get_panels",
+                type: "GET",
+                data: {
+                    "paths": paths
+                },
+                success: function (response) {
+                    console.log(response);
+                    globalTotalProducts = response['total_files'];
+
+                    if (globalTotalProducts > 0) {
+                        globalPaths = response['paths'];
+                        globalFrames = createFrames(globalTotalProducts, globalPaths);
+                        if (viewType == "0") {
+                            createPanels(globalTotalProducts, globalFrames, globalPaths);
+
+                        }
+                        else {
+                            createPanelsCarousel(globalTotalProducts, globalFrames, globalPaths);
+                        }
+
+                    } else {
+                        let canvas = document.getElementById('canvas');
+                        canvas.innerHTML = '';
+                    }
+                    
+
+
+
+                },
+                error: function (error) {
+                    console.log(error);
+                    let canvas = document.getElementById('canvas');
+                    canvas.innerHTML = '';
+                },
+            });
+        }
+
+        function getExtension(filename) {
+
+            let filenamePieces = filename.split(".");
+            return filenamePieces[filenamePieces.length - 1]
+
+        }
+
+
+        function getJSON(level, label) {
+            $.ajax({
+                url: "/get_json",
+                type: "GET",
+                data: {
+                    "level": level,
+                    "label": label
+                },
+                success: function (response) {
+
+                    console.log(response);
+
+                    if (level == 1) {
+                        $.each(response, function (index, value) {
+                            $('#y_select').append($('<option>').val(value).text(value));
+                        });
+                    } else {
+                        $.each(response, function (index, value) {
+                            $('#z_select').append($('<option>').val(value).text(value));
+                        });
+                    }
+
+
+
+
+
+                },
+                error: function (error) {
+                    console.log(error);
+                },
+            });
+        }
+
+
+        function createFrames(totalFiles, paths) {
+
+                var frames = new Array();
+                for (let i = 0; i < totalFiles; i++) {
+                    
+                    let src = paths[i];
+                    let extension = getExtension(src);
+                    let elementName;
+                    for (const [key, value] of Object.entries(formatsConfig)) {
+                        if (value.includes(extension)) {
+                            elementName = key
+                        }
+                    }
+
+                    if (elementName == "img") {
+                        let img = document.createElement('img');
+                        img.setAttribute('src', src);
+                        img.setAttribute('style', 'height: 100%; width: 100%; object-fit: contain');
+                        img.setAttribute('alt', 'Imagen ' + i);
+                        frames.push(img);
+
+
+
+                    } else if (elementName == "html") {
+
+                        let frame = document.createElement('iframe');
+                        frame.setAttribute('src', src);
+                        frame.setAttribute('id', 'scaled-frame');
+                        frames.push(frame);
+
+                    } else if (elementName == "table"){
+                        let table = document.createElement('table');
+                        table.setAttribute('class','table table-striped table-bordered table-sm');
+                        
+                        let frame = document.createElement('div');
+                        frame.setAttribute('style','overflow:scroll; height:100%;')
+                        //frame.setAttribute('src', src);
+                        //frame.setAttribute('id', 'scaled-frame');
+
+                        fetch(src)
+                        .then(res => res.text())
+                        .then(csv => {
+                            table.innerHTML = "";
+                            for (let row of CSV.parse(csv)) {
+                                let tr = table.insertRow();
+                                for (let col of row) {
+                                    let td = tr.insertCell();
+                                    td.innerHTML = col;
+                                }
+                            }
+                            frame.appendChild(table);
+                            
+                            
+                        });
+
+                        frames.push(frame);
+
+                    }
+                }
+
+                return frames;
+            }
+
+            function readCSV(path) {
+                    alert("LEERE CSV");
+                    alert(path);
+                    fetch(path)
+                        .then(res => res.text())
+                        .then(csv => {
+                            alert(csv)
+                            table.innerHTML = "";
+                            for (let row of CSV.parse(csv)) {
+                                let tr = table.insertRow();
+                                for (let col of row) {
+                                    let td = tr.insertCell();
+                                    td.innerHTML = col;
+                                }
+                            }
+                        });
+                }
+
+    </script>
+
+</body>
+
+</html>

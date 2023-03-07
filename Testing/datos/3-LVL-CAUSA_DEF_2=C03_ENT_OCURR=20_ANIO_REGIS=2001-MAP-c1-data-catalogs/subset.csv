@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2001,20,184,C03,Women,2,45_64,Oaxaca,Oax.,159452,75967,83485,47234,20,184,San Juan Bautista Tuxtepec,18.02855889,-96.09253795,1270-San Juan Bautista Tuxtepec,8120,1,12.31527094,2.424

@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2010,15,118,C03,Men,1,>65,M�xico,Mex.,203872,99506,104366,48816,15,118,Zinacantepec,19.2153213,-99.79779079,79-Zinacantepec,3052,1,32.76539974,2.687
+2010,15,57,C03,Men,1,45_64,M�xico,Mex.,834434,402495,431939,240246,15,57,Naucalpan de Juárez,19.47125315,-99.29260539,744-Naucalpan de Juárez,72899,1,1.37176093,0.27

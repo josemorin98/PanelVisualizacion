@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2007,11,14,C00,Men,1,>65,Guanajuato,Gto.,163038,76711,86327,38976,11,14,Dolores Hidalgo Cuna de la Independencia Nacional,21.14701686,-100.9347773,427-Dolores Hidalgo Cuna de la Independencia Nacional,3521,1,28.40102244,2.329
+2007,11,20,C00,Men,1,>65,Guanajuato,Gto.,1721215,846673,874542,440870,11,20,León,21.12474925,-101.6224026,423-León,25733,1,3.8860607,0.319
+2007,11,21,C00,Men,1,>65,Guanajuato,Gto.,47261,22702,24559,14275,11,21,Moroleón,20.08431562,-101.2446893,426-Moroleón,1893,1,52.8262018,4.332

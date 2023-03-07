@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2002,26,30,C03,Men,1,>65,Sonora,Son.,936263,467490,468773,278712,26,30,Hermosillo,29.02367388,-111.4735112,1951-Hermosillo,12422,1,8.050233457,0.66
+2002,26,72,C03,Women,2,25_44,Sonora,Son.,14279,7342,6937,3925,26,72,San Ignacio Río Muerto,27.35978386,-110.3588383,1929-San Ignacio Río Muerto,1929,1,51.84033178,15.179

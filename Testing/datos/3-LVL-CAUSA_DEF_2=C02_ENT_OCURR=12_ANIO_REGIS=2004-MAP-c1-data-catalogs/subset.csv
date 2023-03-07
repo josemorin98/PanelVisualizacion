@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2004,12,77,C02,Men,1,>65,Guerrero,Gro.,14280,7027,7253,3923,12,77,Marquelia,16.63917919,-98.74501981,475-Marquelia,437,1,228.8329519,18.764
+2004,12,53,C02,Women,2,45_64,Guerrero,Gro.,50124,24574,25550,13960,12,53,San Marcos,16.80869451,-99.40903907,441-San Marcos,3490,1,28.65329513,5.639

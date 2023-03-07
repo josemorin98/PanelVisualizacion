@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2006,15,102,C04,Men,1,>65,M�xico,Mex.,16414,7861,8553,4487,15,102,Timilpan,19.89634578,-99.71804159,67-Timilpan,543,1,184.1620626,15.101
+2006,15,49,C04,Men,1,25_44,M�xico,Mex.,15428,7543,7885,3593,15,49,Joquicingo,19.06756697,-99.51448152,36-Joquicingo,1518,1,65.87615283,19.289

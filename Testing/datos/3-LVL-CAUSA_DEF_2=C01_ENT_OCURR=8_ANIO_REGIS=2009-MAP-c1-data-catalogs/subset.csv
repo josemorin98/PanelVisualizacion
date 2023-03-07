@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2009,8,32,C01,Women,2,45_64,Chihuahua,Chih.,116662,56247,60415,34430,8,32,Hidalgo del Parral,27.12904341,-105.6970367,299-Hidalgo del Parral,10030,1,9.970089731,1.962

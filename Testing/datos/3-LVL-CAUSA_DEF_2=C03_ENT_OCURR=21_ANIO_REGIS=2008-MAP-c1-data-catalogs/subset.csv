@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2008,21,129,C03,Women,2,>65,Puebla,Pue.,14018,6720,7298,3531,21,129,San José Miahuatlán,18.22887062,-97.29006663,1758-San José Miahuatlán,501,1,199.6007984,16.367
+2008,21,29,C03,Men,1,45_64,Puebla,Pue.,3811,1816,1995,953,21,29,Caxhuacan,20.07349194,-97.6063013,1585-Caxhuacan,364,1,274.7252747,54.066
+2008,21,172,C03,Women,2,25_44,Puebla,Pue.,27216,13100,14116,7723,21,172,Tetela de Ocampo,19.81821106,-97.78573372,1698-Tetela de Ocampo,3338,1,29.95805872,8.772

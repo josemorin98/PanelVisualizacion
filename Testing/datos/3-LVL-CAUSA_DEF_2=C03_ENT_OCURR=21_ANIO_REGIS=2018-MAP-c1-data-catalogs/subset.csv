@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2018,21,118,C03,Men,1,>65,Puebla,Pue.,30021,14606,15415,6511,21,118,Los Reyes de Juárez,18.96243518,-97.8239024,1653-Los Reyes de Juárez,694,1,144.092219,11.816
+2018,21,150,C03,Men,1,>65,Puebla,Pue.,6105,2946,3159,1712,21,150,Huehuetlán el Grande,18.7571762,-98.15696493,1682-Huehuetlán el Grande,436,1,229.3577982,18.807

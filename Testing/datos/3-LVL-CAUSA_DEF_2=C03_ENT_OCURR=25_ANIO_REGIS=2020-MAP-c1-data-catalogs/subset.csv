@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2020,25,1,C03,Men,1,>65,Sinaloa,Sin.,459310,225316,233994,133947,25,1,Ahome,25.89564801,-109.1331985,1863-Ahome,17128,1,5.838393274,0.479
+2020,25,6,C03,Women,2,>65,Sinaloa,Sin.,1003530,491046,512484,281726,25,6,Culiacán,24.6514903,-107.2666539,1877-Culiacán,36463,1,2.742506102,0.225

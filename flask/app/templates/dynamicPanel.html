@@ -1,0 +1,127 @@
+{% extends 'base.html' %} 
+{% block title %} Catalogos {% endblock %} 
+{% block head %} 
+    {{ super() }}
+    <link rel="stylesheet" href="{{ url_for('static',filename='dist/css/style.css') }}" />
+
+    <link rel="stylesheet" href="{{ url_for('static',filename='dist/css/modal.css') }}" />
+
+{%endblock%} {%block content%}
+
+<section class="layout-fixed">
+    <div class="wrapper">
+            <!-- Main content -->
+            <section class="content">
+                <div class="container-fluid">
+                    <!-- /.row -->
+                    <!-- Small boxes (Stat box) -->
+                    <div class="row">
+                        <!-- ./col -->
+                        <div class="col-lg-12 col-6">
+                            <!-- small box -->
+                            <div class="card card-primary">
+                                <div class="card-header">
+                                        <h3 class="card-title"><b>Productos</b></h3>
+                                </div>
+                                <div class="col-3 switch-button">
+                                    <label>Vista:</label>
+                                    <div class="row">
+                                        <label>mosaico: </label>
+                                        <input type="checkbox" name="switch-button" id="mosaico" class="switch-button-checkbox">
+                                        <label for="mosaico" class="switch-button-label"></label>
+                                    </div>
+                                </div>
+                                <!-- /.card-header -->
+                                <!-- form start -->
+                                <form id="filter">
+                                    <div class="card-body">
+                                        <div id="select_container">
+                                            <div class="row">
+                                                <!--level 1-->
+                                                <div class="col-3">
+                                                    <label>cause of death</label>
+                                                    <div class="search">
+                                                        <input type="search">
+                                                    </div>
+                                                    <select class="form-control" id="x_select" name="{{levels[0]}}">
+                                                        <option value="0" selected>Selecciona una opción...</option>
+                                                        {% for i in data2 %}
+                                                        <option value="{{i['cod_3']}}">{{i['cod_3']}}- {{i['DESCR_CAT_3CAR']}}</option>
+                                                        {% endfor %}
+                                                    </select>
+
+                                                </div>
+                                                <!--level 2-->
+                                                <div class="col-3">
+                                                    <label>Entidad Ocurrida</label>
+                                                    <select class="form-control" id="y_select" name="{{levels[1]}}">
+                                                        <option value="0">Selecciona una opción...</option>
+                                                    </select>
+                                                </div>
+                                                <!--level 3-->
+                                                <div class="col-3">
+                                                    <label>Año de Registro</label>
+                                                    <select class="form-control" id="z_select" name="{{levels[2]}}">
+                                                        <option value="0">Selecciona una opción...</option>
+                                                    </select>
+                                                </div>
+                                                <!--level 4-->
+                                                <div class="col-3">
+                                                    <label>Filtro</label>
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                    <div>
+                                        <div class="row">
+                                            <div class="col-3">
+                                                <button> All </button>
+                                            </div>
+                                            <div class="col-3">
+                                                <button> Maps </button>
+                                            </div>
+                                            <div class="col-3">
+                                                <button> Graphs </button>
+                                            </div>
+                                            <div class="col-3">
+                                                <button> Tables </button>
+                                            </div>
+                                        </div>
+                                        <div id="canvas">
+                                        </div>
+                                    </div>
+                                    
+                            </div>
+                    <!--/.card-body -->
+
+                        </form>
+                    </div>
+                    <!-- /.card -->
+                    <!-- ./col -->
+
+                    <!-- ./col -->
+                </div>
+                <!-- /.row -->
+                <!-- Main row -->
+        </div>
+        <!-- /.container-fluid -->
+        </section>
+        <!-- /.content -->
+    </div>
+    <!-- /.content-wrapper -->
+    <!-- /.control-sidebar -->
+    </div>
+    <!-- ./wrapper -->
+    <div class="center" id="modal">
+
+    </div>
+</section>
+{% endblock %}
+{% block footer %} {{ super() }}
+ <script src="{{ url_for('static',filename='dist/js/render.js') }}"></script>
+ <script src="{{ url_for('static',filename='dist/csvtotable/csv.min.js') }}"></script>
+ <script src="{{ url_for('static',filename='dist/js/main.js') }}"></script>
+ {% endblock %}
+ 

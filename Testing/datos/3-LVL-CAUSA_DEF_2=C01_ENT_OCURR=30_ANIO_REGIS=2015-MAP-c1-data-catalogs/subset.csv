@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2015,30,143,C01,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,57085,27104,29981,16708,30,143,Santiago Tuxtla,18.39931897,-95.39983457,2214-Santiago Tuxtla,2770,1,36.10108303,2.96
+2015,30,87,C01,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,488531,226821,261710,151306,30,87,Xalapa,19.54385763,-96.88833353,2158-Xalapa,44596,1,2.242353574,0.441

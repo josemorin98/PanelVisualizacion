@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2014,23,5,C03,Women,2,05_14,Quintana Roo,Q. Roo,911503,459325,452178,287117,23,5,Benito Juárez,21.01235924,-87.04693716,1799-Benito Juárez,63758,1,1.568430628,0.271

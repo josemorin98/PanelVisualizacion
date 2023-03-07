@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2009,12,46,C05,Women,2,>65,Guerrero,Gro.,68207,33041,35166,17236,12,46,Ometepec,16.66156451,-98.35281624,466-Ometepec,1736,1,57.60368664,4.724
+2009,12,1,C05,Women,2,45_64,Guerrero,Gro.,779566,371794,407772,224027,12,1,Acapulco de Juárez,16.95720934,-99.7142958,508-Acapulco de Juárez,66999,1,1.49255959,0.294

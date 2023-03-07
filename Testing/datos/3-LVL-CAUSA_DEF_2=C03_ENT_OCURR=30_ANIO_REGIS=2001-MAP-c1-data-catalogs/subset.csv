@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2001,30,87,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,488531,226821,261710,151306,30,87,Xalapa,19.54385763,-96.88833353,2158-Xalapa,8291,1,12.06127126,0.989
+2001,30,115,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,37314,17775,19539,10712,30,115,Nogales,18.825356,-97.19899721,2186-Nogales,1332,1,75.07507508,6.156
+2001,30,65,C03,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,85489,41162,44327,27261,30,65,Emiliano Zapata,19.43999763,-96.73142159,2136-Emiliano Zapata,3379,1,29.5945546,5.824

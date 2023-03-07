@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2005,1,2,C02,Men,1,>65,Aguascalientes,Ags.,51536,25261,26275,12544,1,2,Asientos,22.12650816,-102.0456381,8-Asientos,1172,1,85.32423208,6.997
+2005,1,1,C02,Women,2,25_44,Aguascalientes,Ags.,948990,462073,486917,266942,1,1,Aguascalientes,21.81143623,-102.2958029,3-Aguascalientes,115958,1,0.862381207,0.253

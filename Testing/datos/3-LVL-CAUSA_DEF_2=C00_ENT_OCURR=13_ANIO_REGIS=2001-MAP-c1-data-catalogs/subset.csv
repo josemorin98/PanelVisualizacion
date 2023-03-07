@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2001,13,82,C00,Women,2,>65,Hidalgo,Hgo.,21443,10342,11101,5851,13,82,Zapotlán de Juárez,19.99260551,-98.85530217,589-Zapotlán de Juárez,523,1,191.2045889,15.679

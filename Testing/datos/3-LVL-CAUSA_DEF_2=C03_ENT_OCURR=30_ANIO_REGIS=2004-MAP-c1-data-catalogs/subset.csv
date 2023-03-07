@@ -1,0 +1,7 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2004,30,33,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,24421,11846,12575,7043,30,33,Cazones de Herrera,20.71444969,-97.28548255,2104-Cazones de Herrera,804,1,124.3781095,10.199
+2004,30,44,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,204721,95960,108761,61960,30,44,Córdoba,18.93236783,-96.93845744,2115-Córdoba,4843,1,20.64835846,1.693
+2004,30,124,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,159910,77178,82732,45472,30,124,Papantla,20.41090014,-97.28632709,2195-Papantla,4813,1,20.77706212,1.704
+2004,30,174,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,95602,45759,49843,30821,30,174,Tierra Blanca,18.5498343,-96.28645195,2245-Tierra Blanca,2775,1,36.03603604,2.955
+2004,30,73,C03,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,41670,20201,21469,12652,30,73,Hueyapan de Ocampo,18.19711174,-95.15482306,2144-Hueyapan de Ocampo,3044,1,32.85151117,6.465
+2004,30,87,C03,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,488531,226821,261710,151306,30,87,Xalapa,19.54385763,-96.88833353,2158-Xalapa,28644,1,3.491132523,0.687

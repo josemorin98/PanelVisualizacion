@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2015,30,44,C00,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,204721,95960,108761,61960,30,44,Córdoba,18.93236783,-96.93845744,2115-Córdoba,10228,1,9.777082519,0.802
+2015,30,155,C00,Men,1,25_44,Veracruz de Ignacio de la Llave,Ver.,99959,48133,51826,27314,30,155,Tantoyuca,21.38897009,-98.17126332,2226-Tantoyuca,12080,1,8.278145695,2.424

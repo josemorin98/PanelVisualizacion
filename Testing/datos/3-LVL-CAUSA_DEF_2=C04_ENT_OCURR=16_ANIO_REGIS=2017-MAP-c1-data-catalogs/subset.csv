@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2017,16,53,C04,Women,2,>65,Michoac�n de Ocampo,Mich.,849053,407129,441924,244509,16,53,Morelia,19.66658131,-101.2791185,835-Morelia,30440,1,3.285151117,0.269
+2017,16,53,C04,Men,1,45_64,Michoac�n de Ocampo,Mich.,849053,407129,441924,244509,16,53,Morelia,19.66658131,-101.2791185,835-Morelia,71613,1,1.396394509,0.275

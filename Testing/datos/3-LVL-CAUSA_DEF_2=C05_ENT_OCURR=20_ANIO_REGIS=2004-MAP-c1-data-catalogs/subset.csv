@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2004,20,459,C05,Women,2,>65,Oaxaca,Oax.,4877,2296,2581,1594,20,459,Santiago Chazumba,18.19985559,-97.71938724,1115-Santiago Chazumba,480,1,208.3333333,17.083
+2004,20,58,C05,Women,2,45_64,Oaxaca,Oax.,12722,6233,6489,3591,20,58,Mazatlán Villa de Flores,18.02936486,-96.91094817,1319-Mazatlán Villa de Flores,1075,1,93.02325581,18.307
+2004,20,198,C05,Women,2,25_44,Oaxaca,Oax.,29802,13961,15841,9094,20,198,San Juan Guichicovi,17.05406945,-95.11216685,1553-San Juan Guichicovi,3673,1,27.22570106,7.972

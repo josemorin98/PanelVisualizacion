@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2008,29,5,C54,Women,2,>65,Tlaxcala,Tlax.,80725,38467,42258,22607,29,5,Apizaco,19.42352062,-98.12708931,2015-Apizaco,2502,1,39.96802558,3.277
+2008,29,6,C54,Women,2,45_64,Tlaxcala,Tlax.,51172,24616,26556,12870,29,6,Calpulalpan,19.56096269,-98.58936477,2016-Calpulalpan,3197,1,31.27932437,6.156
+2008,29,6,C54,Women,2,25_44,Tlaxcala,Tlax.,51172,24616,26556,12870,29,6,Calpulalpan,19.56096269,-98.58936477,2016-Calpulalpan,6954,1,14.38021283,4.211

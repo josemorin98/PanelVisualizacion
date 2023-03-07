@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2011,9,15,C04,Men,1,>65,Ciudad de M�xico,CDMX,545884,260951,284933,196593,9,15,Cuauhtémoc,19.43137343,-99.14905576,2452-Cuauhtémoc,20419,1,4.897399481,0.402

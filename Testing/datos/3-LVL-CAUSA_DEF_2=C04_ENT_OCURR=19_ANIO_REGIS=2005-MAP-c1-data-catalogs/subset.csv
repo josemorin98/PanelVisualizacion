@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2005,19,39,C04,Men,1,>65,Nuevo Le�n,NL,1142994,564805,578189,329095,19,39,Monterrey,25.64483194,-100.3110151,988-Monterrey,32928,1,3.036929057,0.249
+2005,19,46,C04,Men,1,>65,Nuevo Le�n,NL,412199,202958,209241,121798,19,46,San Nicolás de los Garza,25.73605643,-100.2706914,956-San Nicolás de los Garza,11246,1,8.892050507,0.729
+2005,19,46,C04,Men,1,45_64,Nuevo Le�n,NL,412199,202958,209241,121798,19,46,San Nicolás de los Garza,25.73605643,-100.2706914,956-San Nicolás de los Garza,44161,1,2.264441476,0.446

@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2006,7,87,C01,Women,2,>65,Chiapas,Chis.,41672,20481,21191,11045,7,87,Suchiate,14.63938353,-92.22712117,228-Suchiate,751,1,133.1557923,10.919
+2006,7,101,C01,Men,1,>65,Chiapas,Chis.,604147,287524,316623,166210,7,101,Tuxtla Gutiérrez,16.73944748,-93.13729383,153-Tuxtla Gutiérrez,9170,1,10.90512541,0.894
+2006,7,68,C01,Men,1,45_64,Chiapas,Chis.,31919,15652,16267,8604,7,68,Pichucalco,17.53057653,-93.19914079,242-Pichucalco,2097,1,47.68717215,9.385

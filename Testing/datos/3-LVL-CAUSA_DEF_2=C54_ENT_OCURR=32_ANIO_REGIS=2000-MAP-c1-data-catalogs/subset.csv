@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2000,32,9,C54,Women,2,>65,Zacatecas,Zac.,10086,4892,5194,2677,32,9,Chalchihuites,23.41807054,-103.910391,2398-Chalchihuites,513,1,194.9317739,15.984
+2000,32,49,C54,Women,2,>65,Zacatecas,Zac.,32461,16029,16432,9095,32,49,Valparaíso,22.77899578,-103.7528186,2396-Valparaíso,1705,2,117.3020528,9.619
+2000,32,56,C54,Women,2,25_44,Zacatecas,Zac.,149607,71972,77635,42424,32,56,Zacatecas,22.73573457,-102.6780786,2392-Zacatecas,20804,1,4.806767929,1.407

@@ -1,0 +1,80 @@
+    #card_body {
+        height: 430px;
+        padding: 0;
+        overflow: hidden;
+    }
+
+    #scaled-frame {
+        width: 2200px;
+        height: 1200px;
+        border: 0px;
+    }
+
+    #scaled-frame {
+        zoom: 0.4;
+        -moz-transform: scale(0.4);
+        -moz-transform-origin: 0 0;
+        -o-transform: scale(0.4);
+        -o-transform-origin: 0 0;
+        -webkit-transform: scale(0.4);
+        -webkit-transform-origin: 0 0;
+    }
+
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+        #scaled-frame {
+            zoom: 1;
+        }
+    }
+
+    .mfp-iframe-holder .mfp-content {
+        line-height: 0;
+        width: 200%;
+        height: 200%;
+        max-width: 1400px;
+        max-height: 1000px;
+    }
+
+    .carousel-control-prev-icon {
+        filter: invert(1);
+    }
+
+    .carousel-control-next-icon {
+        filter: invert(1);
+    }
+
+    .switch-button{
+        display: inline-block;
+    }
+
+    .switch-button .switch-button-checkbox{
+        display: none;
+    }
+
+    .switch-button .switch-button-label{
+        background-color: #f23729;
+        width: 3rem;
+        height: 1rem;
+        border-radius: 1rem;
+        display: inline-block;
+        position: relative;
+    }
+
+    .switch-button .switch-button-label:before{
+        transition: .2s;
+        display: block;
+        position: absolute;
+        width: 1rem;
+        height: 1rem;
+        background-color: #29a5f2;
+        content: '';
+        border-radius: 20%;
+        box-shadow: inset 0px 0px 0px 1px #000000;
+    }
+
+    .switch-button .switch-button-checkbox:checked + .switch-button-label{
+        background-color: #35f352;
+    }
+
+    .switch-button .switch-button-checkbox:checked + .switch-button-label:before{
+        transform: translateX(2rem);
+    }

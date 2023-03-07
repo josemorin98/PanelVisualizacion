@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2006,11,1,C03,Men,1,>65,Guanajuato,Gto.,92040,44853,47187,22284,11,1,Abasolo,20.53323096,-101.536012,414-Abasolo,2537,1,39.41663382,3.232
+2006,11,37,C03,Men,1,>65,Guanajuato,Gto.,203556,100073,103483,46625,11,37,Silao de la Victoria,20.96311535,-101.4377836,413-Silao de la Victoria,3495,1,28.61230329,2.346
+2006,11,27,C03,Men,1,25_44,Guanajuato,Gto.,273417,132278,141139,74992,11,27,Salamanca,20.62511012,-101.1650961,419-Salamanca,33388,1,2.995088056,0.877

@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2014,12,27,C02,Men,1,>65,Guerrero,Gro.,20537,10188,10349,6209,12,27,Cutzamala de Pinzón,18.65981605,-100.6179164,492-Cutzamala de Pinzón,1250,1,80.0,6.56
+2014,12,1,C02,Men,1,45_64,Guerrero,Gro.,779566,371794,407772,224027,12,1,Acapulco de Juárez,16.95720934,-99.7142958,508-Acapulco de Juárez,70588,1,1.416671389,0.279

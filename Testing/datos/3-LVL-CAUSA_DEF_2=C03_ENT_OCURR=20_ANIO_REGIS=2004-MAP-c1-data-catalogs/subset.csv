@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2004,20,71,C03,Men,1,>65,Oaxaca,Oax.,3255,1580,1675,861,20,71,Pluma Hidalgo,15.91937436,-96.427886,1520-Pluma Hidalgo,121,1,826.446281,67.769
+2004,20,318,C03,Men,1,>65,Oaxaca,Oax.,49780,24008,25772,13918,20,318,San Pedro Mixtepec -Dto. 22 -,15.94964571,-97.06957763,1517-San Pedro Mixtepec -Dto. 22 -,644,1,155.2795031,12.733
+2004,20,500,C03,Men,1,45_64,Oaxaca,Oax.,7991,3753,4238,2415,20,500,Santiago Yosondúa,16.85047627,-97.53113824,1362-Santiago Yosondúa,578,1,173.0103806,34.048

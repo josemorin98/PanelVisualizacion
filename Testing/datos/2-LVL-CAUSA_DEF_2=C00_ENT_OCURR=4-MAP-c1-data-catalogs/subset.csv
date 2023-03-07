@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2003,4,2,C00,Men,1,>65,Campeche,Camp.,294077,141555,152522,85353,4,2,Campeche,19.6170144,-90.26764395,97-Campeche,5917,2,33.80091262,2.772
+2020,4,2,C00,Men,1,>65,Campeche,Camp.,294077,141555,152522,85353,4,2,Campeche,19.6170144,-90.26764395,97-Campeche,10263,1,9.743739647,0.799
+2001,4,11,C00,Men,1,05_14,Campeche,Camp.,46913,23674,23239,13294,4,11,Candelaria,18.09903851,-90.7165644,98-Candelaria,5370,1,18.62197393,3.22

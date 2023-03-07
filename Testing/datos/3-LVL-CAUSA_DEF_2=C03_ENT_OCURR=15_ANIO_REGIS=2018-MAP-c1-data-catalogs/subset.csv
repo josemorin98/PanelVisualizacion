@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2018,15,58,C03,Men,1,>65,M�xico,Mex.,1077208,519922,557286,298004,15,58,Nezahualcóyotl,19.42257866,-99.02269952,745-Nezahualcóyotl,47261,1,2.115909524,0.174
+2018,15,54,C03,Women,2,45_64,M�xico,Mex.,242307,115997,126310,68154,15,54,Metepec,19.24738923,-99.5882601,39-Metepec,30871,1,3.239286061,0.637

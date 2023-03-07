@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2003,24,40,C00,Men,1,>65,San Luis Potos�,SLP,36968,18109,18859,10553,24,40,Tamuín,22.0936196,-98.73532951,1822-Tamuín,1007,1,99.30486594,8.143
+2003,24,32,C00,Women,2,25_44,San Luis Potos�,SLP,39880,19158,20722,10222,24,32,Santa María del Río,21.76797671,-100.5542327,1830-Santa María del Río,4764,1,20.99076406,6.146

@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2018,29,34,C02,Women,2,45_64,Tlaxcala,Tlax.,45438,22077,23361,11842,29,34,Tlaxco,19.62012971,-98.17701652,2043-Tlaxco,4005,1,24.96878901,4.914
+2018,29,25,C02,Women,2,25_44,Tlaxcala,Tlax.,82688,40802,41886,18316,29,25,San Pablo del Monte,19.15611741,-98.1403641,2034-San Pablo del Monte,12402,1,8.06321561,2.361
+2018,29,35,C02,Women,2,25_44,Tlaxcala,Tlax.,6294,3119,3175,1464,29,35,Tocatlán,19.38884219,-98.01614633,2044-Tocatlán,942,1,106.1571125,31.083

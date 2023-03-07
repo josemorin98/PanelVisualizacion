@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2011,30,123,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,96185,47219,48966,28379,30,123,Pánuco,22.11398629,-98.25637589,2194-Pánuco,3645,1,27.43484225,2.25
+2011,30,131,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,189457,88204,101253,56971,30,131,Poza Rica de Hidalgo,20.53004888,-97.43847188,2202-Poza Rica de Hidalgo,9586,1,10.43187982,0.855
+2011,30,133,C03,Men,1,25_44,Veracruz de Ignacio de la Llave,Ver.,57909,28756,29153,16522,30,133,Pueblo Viejo,22.15806355,-97.92480994,2204-Pueblo Viejo,8411,1,11.88919272,3.481

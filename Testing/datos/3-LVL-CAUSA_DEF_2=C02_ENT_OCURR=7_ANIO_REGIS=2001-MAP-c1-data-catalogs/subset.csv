@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2001,7,89,C02,Men,1,>65,Chiapas,Chis.,353706,171610,182096,96307,7,89,Tapachula,14.93396804,-92.30479679,159-Tapachula,5557,1,17.99532122,1.476
+2001,7,101,C02,Men,1,45_64,Chiapas,Chis.,604147,287524,316623,166210,7,101,Tuxtla Gutiérrez,16.73944748,-93.13729383,153-Tuxtla Gutiérrez,25457,1,3.928192639,0.773
+2001,7,101,C02,Women,2,25_44,Chiapas,Chis.,604147,287524,316623,166210,7,101,Tuxtla Gutiérrez,16.73944748,-93.13729383,153-Tuxtla Gutiérrez,75600,1,1.322751323,0.387

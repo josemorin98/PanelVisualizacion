@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2014,11,8,C00,Women,2,>65,Guanajuato,Gto.,41240,19777,21463,11186,11,8,Manuel Doblado,20.71294733,-101.879784,408-Manuel Doblado,1856,1,53.87931034,4.418
+2014,11,20,C00,Women,2,>65,Guanajuato,Gto.,1721215,846673,874542,440870,11,20,León,21.12474925,-101.6224026,423-León,40590,2,4.927322,0.404
+2014,11,36,C00,Men,1,45_64,Guanajuato,Gto.,6714,3219,3495,2003,11,36,Santiago Maravatío,20.15823337,-100.9903644,396-Santiago Maravatío,639,1,156.4945227,30.798

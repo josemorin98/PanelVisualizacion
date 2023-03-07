@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2005,5,30,C02,Women,2,>65,Coahuila de Zaragoza,Coah.,879958,437792,442166,242663,5,30,Saltillo,25.02914759,-101.1251087,104-Saltillo,16009,1,6.246486351,0.512
+2005,5,35,C02,Women,2,>65,Coahuila de Zaragoza,Coah.,720848,351753,369095,215134,5,35,Torreón,25.17007521,-103.2489193,112-Torreón,18374,2,10.88494612,0.893
+2005,5,30,C02,Men,1,25_44,Coahuila de Zaragoza,Coah.,879958,437792,442166,242663,5,30,Saltillo,25.02914759,-101.1251087,104-Saltillo,99226,1,1.007800375,0.295

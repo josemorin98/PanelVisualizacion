@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2001,12,22,C05,Women,2,>65,Guerrero,Gro.,38554,19025,19529,10732,12,22,Coyuca de Catalán,18.08179439,-100.9299064,497-Coyuca de Catalán,1977,1,50.58168943,4.148

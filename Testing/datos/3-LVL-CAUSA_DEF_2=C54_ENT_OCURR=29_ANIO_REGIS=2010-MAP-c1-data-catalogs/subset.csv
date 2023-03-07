@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2010,29,42,C54,Women,2,>65,Tlaxcala,Tlax.,14197,6762,7435,3634,29,42,Xicohtzinco,19.17118668,-98.24133799,2051-Xicohtzinco,472,1,211.8644068,17.373
+2010,29,13,C54,Women,2,45_64,Tlaxcala,Tlax.,98764,47761,51003,23998,29,13,Huamantla,19.33244361,-97.93643381,2023-Huamantla,6093,1,16.41227638,3.23
+2010,29,33,C54,Women,2,45_64,Tlaxcala,Tlax.,99896,47252,52644,28873,29,33,Tlaxcala,19.30934734,-98.23669393,2042-Tlaxcala,8451,1,11.83291918,2.329

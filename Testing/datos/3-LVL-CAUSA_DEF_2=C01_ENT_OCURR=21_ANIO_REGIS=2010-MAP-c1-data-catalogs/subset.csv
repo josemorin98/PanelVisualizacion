@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2010,21,186,C01,Women,2,>65,Puebla,Pue.,55576,26617,28959,14396,21,186,Tlatlauquitepec,19.84214085,-97.49934788,1711-Tlatlauquitepec,1978,1,50.55611729,4.146

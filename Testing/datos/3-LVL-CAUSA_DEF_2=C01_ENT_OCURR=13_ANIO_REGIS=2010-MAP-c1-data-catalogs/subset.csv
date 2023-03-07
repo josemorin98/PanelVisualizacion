@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2010,13,76,C01,Men,1,>65,Hidalgo,Hgo.,115107,55588,59519,33335,13,76,Tula de Allende,20.06412923,-99.3767425,579-Tula de Allende,2855,1,35.0262697,2.872
+2010,13,3,C01,Women,2,45_64,Hidalgo,Hgo.,61002,29077,31925,16271,13,3,Actopan,20.31454678,-98.88969144,514-Actopan,4818,1,20.75550021,4.085

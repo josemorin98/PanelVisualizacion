@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2006,13,33,C04,Men,1,45_64,Hidalgo,Hgo.,2895,1370,1525,955,13,33,Juárez Hidalgo,20.83158128,-98.83574779,532-Juárez Hidalgo,286,1,349.6503497,68.811

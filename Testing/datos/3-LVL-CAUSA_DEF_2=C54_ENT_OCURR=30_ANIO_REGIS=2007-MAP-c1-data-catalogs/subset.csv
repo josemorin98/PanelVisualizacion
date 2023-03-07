@@ -1,0 +1,10 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2007,30,39,C54,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,310698,149139,161559,98227,30,39,Coatzacoalcos,18.13255848,-94.39736763,2110-Coatzacoalcos,7760,1,12.88659794,1.057
+2007,30,89,C54,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,38669,18192,20477,12270,30,89,Jáltipan,17.87041569,-94.71507467,2160-Jáltipan,1404,1,71.22507123,5.84
+2007,30,191,C54,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,30097,14468,15629,9924,30,191,Ursulo Galván,19.43762211,-96.38777692,2262-Ursulo Galván,1334,1,74.96251874,6.147
+2007,30,193,C54,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,607209,287664,319545,202144,30,193,Veracruz,19.18582634,-96.22166824,2264-Veracruz,21232,1,4.709871891,0.386
+2007,30,13,C54,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,26843,12669,14174,8369,30,13,Naranjos Amatlán,21.31317133,-97.68538713,2084-Naranjos Amatlán,2894,1,34.55425017,6.8
+2007,30,39,C54,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,310698,149139,161559,98227,30,39,Coatzacoalcos,18.13255848,-94.39736763,2110-Coatzacoalcos,24515,2,8.158270447,1.606
+2007,30,155,C54,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,99959,48133,51826,27314,30,155,Tantoyuca,21.38897009,-98.17126332,2226-Tantoyuca,8105,1,12.33806292,2.428
+2007,30,170,C54,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,10824,5274,5550,2846,30,170,Texcatepec,20.62421432,-98.30878675,2241-Texcatepec,620,1,161.2903226,31.742
+2007,30,39,C54,Women,2,25_44,Veracruz de Ignacio de la Llave,Ver.,310698,149139,161559,98227,30,39,Coatzacoalcos,18.13255848,-94.39736763,2110-Coatzacoalcos,51440,1,1.944012442,0.569

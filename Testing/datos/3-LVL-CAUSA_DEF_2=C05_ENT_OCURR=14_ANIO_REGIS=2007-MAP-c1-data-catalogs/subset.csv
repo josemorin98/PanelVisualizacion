@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2007,14,39,C05,Men,1,>65,Jalisco,Jal.,1385629,666997,718632,398966,14,39,Guadalajara,20.67597105,-103.3358072,631-Guadalajara,45855,1,2.180787264,0.179
+2007,14,120,C05,Women,2,45_64,Jalisco,Jal.,1476491,720592,755899,425409,14,120,Zapopan,20.79489516,-103.4941838,712-Zapopan,93806,1,1.066029891,0.21

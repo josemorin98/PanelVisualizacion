@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2015,16,60,C01,Men,1,>65,Michoac�n de Ocampo,Mich.,9437,4596,4841,2428,16,60,Numarán,20.25067632,-101.9597534,879-Numarán,435,1,229.8850575,18.851
+2015,16,71,C01,Men,1,45_64,Michoac�n de Ocampo,Mich.,69260,33311,35949,18508,16,71,Puruándiro,20.11571026,-101.5280324,877-Puruándiro,5472,1,18.2748538,3.596

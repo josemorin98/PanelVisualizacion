@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2013,15,101,C03,Men,1,>65,M�xico,Mex.,84259,40847,43412,20106,15,101,Tianguistenco,19.16230019,-99.43216379,66-Tianguistenco,1986,1,50.35246727,4.129
+2013,15,58,C03,Women,2,05_14,M�xico,Mex.,1077208,519922,557286,298004,15,58,Nezahualcóyotl,19.42257866,-99.02269952,745-Nezahualcóyotl,89160,1,1.121579183,0.194

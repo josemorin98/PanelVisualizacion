@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2002,7,69,C02,Men,1,>65,Chiapas,Chis.,51193,25111,26082,14937,7,69,Pijijiapan,15.66955613,-93.19240132,241-Pijijiapan,1290,1,77.51937984,6.357
+2002,7,26,C02,Women,2,45_64,Chiapas,Chis.,47371,23194,24177,9505,7,26,Chenalhó,16.95015717,-92.57043515,189-Chenalhó,1235,1,80.97165992,15.935
+2002,7,106,C02,Men,1,25_44,Chiapas,Chis.,67292,33499,33793,17906,7,106,Venustiano Carranza,16.3173126,-92.60789676,219-Venustiano Carranza,7451,1,13.42101731,3.93

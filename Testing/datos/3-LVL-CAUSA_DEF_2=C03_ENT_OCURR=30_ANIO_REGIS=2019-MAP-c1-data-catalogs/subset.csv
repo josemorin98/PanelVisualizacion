@@ -1,0 +1,8 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2019,30,28,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,144550,67985,76565,47818,30,28,Boca del Río,19.11740532,-96.12100554,2099-Boca del Río,9326,1,10.7227107,0.879
+2019,30,39,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,310698,149139,161559,98227,30,39,Coatzacoalcos,18.13255848,-94.39736763,2110-Coatzacoalcos,9840,1,10.16260163,0.833
+2019,30,39,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,310698,149139,161559,98227,30,39,Coatzacoalcos,18.13255848,-94.39736763,2110-Coatzacoalcos,12177,1,8.212203334,0.673
+2019,30,131,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,189457,88204,101253,56971,30,131,Poza Rica de Hidalgo,20.53004888,-97.43847188,2202-Poza Rica de Hidalgo,8887,1,11.25239113,0.923
+2019,30,189,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,154600,74195,80405,46524,30,189,Tuxpan,20.9347945,-97.41178697,2260-Tuxpan,6678,1,14.97454328,1.228
+2019,30,38,C03,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,93911,45096,48815,27374,30,38,Coatepec,19.4475469,-96.93054619,2109-Coatepec,9558,2,20.92487968,4.118
+2019,30,109,C03,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,65761,32030,33731,19527,30,109,Misantla,19.96258631,-96.88543722,2180-Misantla,7278,1,13.74003847,2.704

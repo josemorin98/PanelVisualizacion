@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2020,14,39,C03,Men,1,45_64,Jalisco,Jal.,1385629,666997,718632,398966,14,39,Guadalajara,20.67597105,-103.3358072,631-Guadalajara,157996,2,1.265854832,0.249
+2020,14,53,C03,Men,1,45_64,Jalisco,Jal.,172403,83977,88426,45047,14,53,Lagos de Moreno,21.49401266,-101.8796566,645-Lagos de Moreno,14884,1,6.718624026,1.322

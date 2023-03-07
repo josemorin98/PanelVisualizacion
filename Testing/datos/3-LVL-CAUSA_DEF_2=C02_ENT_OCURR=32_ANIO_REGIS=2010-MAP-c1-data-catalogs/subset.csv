@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2010,32,56,C02,Men,1,>65,Zacatecas,Zac.,149607,71972,77635,42424,32,56,Zacatecas,22.73573457,-102.6780786,2392-Zacatecas,3208,1,31.17206983,2.556
+2010,32,56,C02,Men,1,25_44,Zacatecas,Zac.,149607,71972,77635,42424,32,56,Zacatecas,22.73573457,-102.6780786,2392-Zacatecas,20826,1,4.801690195,1.406

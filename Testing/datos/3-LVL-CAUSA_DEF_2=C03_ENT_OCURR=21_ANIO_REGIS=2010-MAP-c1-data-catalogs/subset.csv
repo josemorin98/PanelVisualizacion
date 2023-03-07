@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2010,21,158,C03,Women,2,>65,Puebla,Pue.,6743,3304,3439,2075,21,158,Tenampulco,20.1892034,-97.40160479,1687-Tenampulco,359,1,278.551532,22.841
+2010,21,114,C03,Women,2,25_44,Puebla,Pue.,1692181,809485,882696,477771,21,114,Puebla,19.00862013,-98.17553518,1765-Puebla,264963,1,0.377411186,0.111

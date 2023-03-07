@@ -1,0 +1,37 @@
+version: '3.7'
+services:
+  flask:
+    build: ./flask
+    container_name: flask
+    restart: always
+    environment:
+      - APP_NAME=MyFlaskApp
+    volumes:
+      - ./flask:/app
+      #- /home/robot/xel/localdata/LAKE/20613324a9cd3f738ded4266514e0e49684e2bd3c5a47a1780097a3d5422ea7e/:/app/app/static/files/ #esta es la carpeta donde estan los archivos
+      #- /home/robot/xel/localdata/LAKE/20613324a9cd3f738ded4266514e0e49684e2bd3c5a47a1780097a3d5422ea7e/c1-data-catalogs/map_metadata.json:/app/app/filters_2.json #esta es la ubicacion del json
+      - ./Testing/datos/:/app/app/static/files/ #esta es la carpeta donde estan los archivos (PARA PRUEBAS)
+      - ./Testing/map_metadata.json:/app/app/filters_2.json #esta es la ubicacion del json (PARA PRUEBAS)
+    expose:
+      - 8080
+    depends_on:
+      - db
+  nginx:
+    build: ./nginx
+    container_name: nginx
+    restart: always
+    ports:
+      - '8003:80'
+  db:
+    image: mysql:5.7
+    container_name: db
+    ports:
+      - '32000:3306'
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    volumes:
+      - ./db:/docker-entrypoint-initdb.d/:ro
+      - mysql_data:/var/lib/mysql
+
+volumes:
+  mysql_data:

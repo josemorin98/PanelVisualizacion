@@ -1,0 +1,13 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2001,30,39,C54,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,310698,149139,161559,98227,30,39,Coatzacoalcos,18.13255848,-94.39736763,2110-Coatzacoalcos,5837,1,17.1320884,1.405
+2001,30,45,C54,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,54737,25879,28858,18415,30,45,Cosamaloapan de Carpio,18.30189319,-95.97278641,2116-Cosamaloapan de Carpio,2346,1,42.62574595,3.495
+2001,30,118,C54,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,123182,56740,66442,37722,30,118,Orizaba,18.85586189,-97.10480787,2189-Orizaba,6548,1,15.27183873,1.252
+2001,30,138,C54,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,41795,19312,22483,12341,30,138,Río Blanco,18.84449831,-97.1509199,2209-Río Blanco,1946,1,51.38746146,4.214
+2001,30,193,C54,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,607209,287664,319545,202144,30,193,Veracruz,19.18582634,-96.22166824,2264-Veracruz,17114,2,11.68633867,0.958
+2001,30,9,C54,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,28184,14006,14178,8830,30,9,Alto Lucero de Gutiérrez Barrios,19.7179856,-96.5828935,2080-Alto Lucero de Gutiérrez Barrios,2175,1,45.97701149,9.048
+2001,30,45,C54,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,54737,25879,28858,18415,30,45,Cosamaloapan de Carpio,18.30189319,-95.97278641,2116-Cosamaloapan de Carpio,5716,1,17.49475157,3.443
+2001,30,87,C54,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,488531,226821,261710,151306,30,87,Xalapa,19.54385763,-96.88833353,2158-Xalapa,31558,2,6.337537233,1.247
+2001,30,108,C54,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,144776,68789,75987,44984,30,108,Minatitlán,17.71136874,-94.3886966,2179-Minatitlán,12718,1,7.862871521,1.547
+2001,30,124,C54,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,159910,77178,82732,45472,30,124,Papantla,20.41090014,-97.28632709,2195-Papantla,12958,1,7.717240315,1.519
+2001,30,131,C54,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,189457,88204,101253,56971,30,131,Poza Rica de Hidalgo,20.53004888,-97.43847188,2202-Poza Rica de Hidalgo,16356,1,6.113964294,1.203
+2001,30,158,C54,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,24551,12102,12449,7579,30,158,Tecolutla,20.38557678,-97.02528317,2229-Tecolutla,1927,1,51.89413596,10.213

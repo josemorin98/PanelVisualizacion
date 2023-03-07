@@ -1,0 +1,6 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2019,13,5,C02,Men,1,>65,Hidalgo,Hgo.,18872,9108,9764,5174,13,5,Ajacuba,20.11982645,-99.07802825,591-Ajacuba,990,1,101.010101,8.283
+2019,13,13,C02,Women,2,>65,Hidalgo,Hgo.,62470,30414,32056,17767,13,13,Atotonilco de Tula,19.97344548,-99.23137642,581-Atotonilco de Tula,1207,1,82.85004143,6.794
+2019,13,28,C02,Women,2,>65,Hidalgo,Hgo.,126781,61321,65460,31522,13,28,Huejutla de Reyes,21.1272351,-98.45171616,528-Huejutla de Reyes,5531,1,18.07991322,1.483
+2019,13,48,C02,Women,2,>65,Hidalgo,Hgo.,314331,149559,164772,93277,13,48,Pachuca de Soto,20.10208401,-98.78223052,586-Pachuca de Soto,11499,1,8.696408383,0.713
+2019,13,62,C02,Women,2,>65,Hidalgo,Hgo.,31235,15568,15667,7498,13,62,Tepehuacán de Guerrero,21.06143031,-98.83294325,551-Tepehuacán de Guerrero,1251,1,79.93605116,6.555

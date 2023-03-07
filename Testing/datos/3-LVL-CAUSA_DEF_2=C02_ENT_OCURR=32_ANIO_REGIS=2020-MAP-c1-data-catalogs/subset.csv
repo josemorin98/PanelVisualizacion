@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2020,32,24,C02,Men,1,>65,Zacatecas,Zac.,53709,26267,27442,13004,32,24,Loreto,22.28458234,-101.9588052,2435-Loreto,1637,1,61.08735492,5.009
+2020,32,39,C02,Women,2,>65,Zacatecas,Zac.,64535,31280,33255,17720,32,39,Río Grande,23.78296103,-103.0318616,2426-Río Grande,3022,1,33.09066843,2.713
+2020,32,48,C02,Women,2,45_64,Zacatecas,Zac.,27302,13224,14078,7994,32,48,Tlaltenango de Sánchez Román,21.78479068,-103.2271853,2400-Tlaltenango de Sánchez Román,2673,1,37.41114852,7.363

@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2017,11,20,C00,Women,2,>65,Guanajuato,Gto.,1721215,846673,874542,440870,11,20,León,21.12474925,-101.6224026,423-León,44160,1,2.264492754,0.186
+2017,11,27,C00,Women,2,>65,Guanajuato,Gto.,273417,132278,141139,74992,11,27,Salamanca,20.62511012,-101.1650961,419-Salamanca,10896,1,9.177679883,0.753

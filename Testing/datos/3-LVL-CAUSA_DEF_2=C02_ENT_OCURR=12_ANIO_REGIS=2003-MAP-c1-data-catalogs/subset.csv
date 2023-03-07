@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2003,12,1,C02,Men,1,45_64,Guerrero,Gro.,779566,371794,407772,224027,12,1,Acapulco de Juárez,16.95720934,-99.7142958,508-Acapulco de Juárez,47316,1,2.113449996,0.416
+2003,12,1,C02,Women,2,45_64,Guerrero,Gro.,779566,371794,407772,224027,12,1,Acapulco de Juárez,16.95720934,-99.7142958,508-Acapulco de Juárez,52533,1,1.903565378,0.375
+2003,12,62,C02,Men,1,25_44,Guerrero,Gro.,22781,10611,12170,4936,12,62,Tlacoachistlahuaca,16.93906123,-98.27712722,480-Tlacoachistlahuaca,1726,1,57.93742758,16.964

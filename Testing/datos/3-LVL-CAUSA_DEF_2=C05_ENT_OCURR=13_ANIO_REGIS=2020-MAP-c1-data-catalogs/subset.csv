@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2020,13,56,C05,Men,1,>65,Hidalgo,Hgo.,39561,18646,20915,11139,13,56,Santiago Tulantepec de Lugo Guerrero,20.03565103,-98.39277665,547-Santiago Tulantepec de Lugo Guerrero,1142,1,87.56567426,7.18
+2020,13,62,C05,Women,2,>65,Hidalgo,Hgo.,31235,15568,15667,7498,13,62,Tepehuacán de Guerrero,21.06143031,-98.83294325,551-Tepehuacán de Guerrero,1296,1,77.16049383,6.327
+2020,13,30,C05,Men,1,45_64,Hidalgo,Hgo.,98654,46440,52214,26601,13,30,Ixmiquilpan,20.53251507,-99.20132324,529-Ixmiquilpan,8922,1,11.20824927,2.206

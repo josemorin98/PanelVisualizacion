@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2012,14,57,C00,Men,1,>65,Jalisco,Jal.,4099,2002,2097,1249,14,57,La Manzanilla de la Paz,20.02151145,-103.1078372,649-La Manzanilla de la Paz,210,1,476.1904762,39.048
+2012,14,120,C00,Men,1,25_44,Jalisco,Jal.,1476491,720592,755899,425409,14,120,Zapopan,20.79489516,-103.4941838,712-Zapopan,194105,1,0.51518508,0.151

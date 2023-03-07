@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2004,5,18,C05,Men,1,45_64,Coahuila de Zaragoza,Coah.,237951,118058,119893,69906,5,18,Monclova,26.89685678,-101.194394,129-Monclova,15914,1,6.283775292,1.237
+2004,5,35,C05,Women,2,45_64,Coahuila de Zaragoza,Coah.,720848,351753,369095,215134,5,35,Torreón,25.17007521,-103.2489193,112-Torreón,46875,1,2.133333333,0.42

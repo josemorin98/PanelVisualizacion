@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2010,30,108,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,144776,68789,75987,44984,30,108,Minatitlán,17.71136874,-94.3886966,2179-Minatitlán,6157,1,16.24167614,1.332
+2010,30,118,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,123182,56740,66442,37722,30,118,Orizaba,18.85586189,-97.10480787,2189-Orizaba,5169,1,19.34610176,1.586
+2010,30,191,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,30097,14468,15629,9924,30,191,Ursulo Galván,19.43762211,-96.38777692,2262-Ursulo Galván,1283,1,77.94232268,6.391
+2010,30,193,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,607209,287664,319545,202144,30,193,Veracruz,19.18582634,-96.22166824,2264-Veracruz,23384,1,4.276428327,0.351

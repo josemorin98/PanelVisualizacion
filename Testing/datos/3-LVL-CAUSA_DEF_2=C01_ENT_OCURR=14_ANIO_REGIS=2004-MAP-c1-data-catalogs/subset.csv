@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2004,14,39,C01,Women,2,>65,Jalisco,Jal.,1385629,666997,718632,398966,14,39,Guadalajara,20.67597105,-103.3358072,631-Guadalajara,61263,2,3.264613225,0.268
+2004,14,85,C01,Men,1,>65,Jalisco,Jal.,38955,19120,19835,11559,14,85,Tamazula de Gordiano,19.6874747,-103.1792876,677-Tamazula de Gordiano,1584,1,63.13131313,5.177
+2004,14,39,C01,Women,2,45_64,Jalisco,Jal.,1385629,666997,718632,398966,14,39,Guadalajara,20.67597105,-103.3358072,631-Guadalajara,142209,1,0.703190375,0.138

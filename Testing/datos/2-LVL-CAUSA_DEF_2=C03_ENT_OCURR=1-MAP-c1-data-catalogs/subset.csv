@@ -1,0 +1,7 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2000,1,1,C03,Women,2,>65,Aguascalientes,Ags.,948990,462073,486917,266942,1,1,Aguascalientes,21.81143623,-102.2958029,3-Aguascalientes,16077,1,6.220065933,0.51
+2008,1,1,C03,Men,1,>65,Aguascalientes,Ags.,948990,462073,486917,266942,1,1,Aguascalientes,21.81143623,-102.2958029,3-Aguascalientes,16093,1,6.213881812,0.51
+2013,1,1,C03,Men,1,>65,Aguascalientes,Ags.,948990,462073,486917,266942,1,1,Aguascalientes,21.81143623,-102.2958029,3-Aguascalientes,19728,1,5.068937551,0.416
+2015,1,7,C03,Men,1,>65,Aguascalientes,Ags.,57369,28101,29268,13584,1,7,Rincón de Romos,22.26740775,-102.3407287,5-Rincón de Romos,1442,1,69.3481276,5.687
+2010,1,1,C03,Women,2,15_24,Aguascalientes,Ags.,948990,462073,486917,266942,1,1,Aguascalientes,21.81143623,-102.2958029,3-Aguascalientes,76969,1,1.299224363,0.217
+2020,1,1,C03,Men,1,15_24,Aguascalientes,Ags.,948990,462073,486917,266942,1,1,Aguascalientes,21.81143623,-102.2958029,3-Aguascalientes,89665,1,1.115262365,0.186

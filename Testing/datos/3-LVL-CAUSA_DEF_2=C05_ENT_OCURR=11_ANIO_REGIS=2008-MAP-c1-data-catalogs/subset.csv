@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2008,11,7,C05,Women,2,>65,Guanajuato,Gto.,521169,253045,268124,143512,11,7,Celaya,20.5375656,-100.787865,383-Celaya,12645,1,7.908264136,0.648
+2008,11,11,C05,Men,1,>65,Guanajuato,Gto.,97928,47535,50393,25388,11,11,Cortazar,20.42911363,-100.9383703,404-Cortazar,2536,1,39.43217666,3.233
+2008,11,25,C05,Women,2,>65,Guanajuato,Gto.,83842,41334,42508,19873,11,25,Purísima del Rincón,20.92751567,-101.9285631,384-Purísima del Rincón,1520,1,65.78947368,5.395

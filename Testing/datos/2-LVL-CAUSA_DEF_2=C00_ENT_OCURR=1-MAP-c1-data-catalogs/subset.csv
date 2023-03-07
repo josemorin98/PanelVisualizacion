@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2013,1,11,C00,Women,2,>65,Aguascalientes,Ags.,61997,30705,31292,16391,1,11,San Francisco de los Romo,22.03307051,-102.2290214,2-San Francisco de los Romo,837,1,119.474313,9.797
+2020,1,1,C00,Women,2,>65,Aguascalientes,Ags.,948990,462073,486917,266942,1,1,Aguascalientes,21.81143623,-102.2958029,3-Aguascalientes,35001,1,2.857061227,0.234

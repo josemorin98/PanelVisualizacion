@@ -1,0 +1,7 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2018,30,4,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,41742,20610,21132,13456,30,4,Actopan,19.54624287,-96.5286179,2075-Actopan,2768,1,36.12716763,2.962
+2018,30,45,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,54737,25879,28858,18415,30,45,Cosamaloapan de Carpio,18.30189319,-95.97278641,2116-Cosamaloapan de Carpio,2841,1,35.19887364,2.886
+2018,30,87,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,488531,226821,261710,151306,30,87,Xalapa,19.54385763,-96.88833353,2158-Xalapa,23461,2,8.524785815,0.699
+2018,30,159,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,29686,14225,15461,5694,30,159,Tehuipango,18.52987455,-97.05242196,2230-Tehuipango,440,1,227.2727273,18.636
+2018,30,108,C03,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,144776,68789,75987,44984,30,108,Minatitlán,17.71136874,-94.3886966,2179-Minatitlán,16590,1,6.027727547,1.186
+2018,30,204,C03,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,44104,21064,23040,13725,30,204,Agua Dulce,18.08486974,-94.16076183,2275-Agua Dulce,5116,1,19.54652072,3.847

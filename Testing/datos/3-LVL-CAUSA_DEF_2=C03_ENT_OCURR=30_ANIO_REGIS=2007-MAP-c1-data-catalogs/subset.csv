@@ -1,0 +1,6 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2007,30,85,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,74004,35363,38641,20868,30,85,Ixtaczoquitlán,18.85056593,-97.02901322,2156-Ixtaczoquitlán,1656,1,60.38647343,4.952
+2007,30,118,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,123182,56740,66442,37722,30,118,Orizaba,18.85586189,-97.10480787,2189-Orizaba,4899,1,20.41232905,1.674
+2007,30,34,C03,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,25011,11598,13413,7804,30,34,Cerro Azul,21.18737154,-97.76923097,2105-Cerro Azul,2395,1,41.75365344,8.217
+2007,30,44,C03,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,204721,95960,108761,61960,30,44,Córdoba,18.93236783,-96.93845744,2115-Córdoba,18094,1,5.526693932,1.088
+2007,30,104,C03,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,17134,8228,8906,5002,30,104,Mecayapan,18.28919475,-94.81604268,2175-Mecayapan,1000,1,100.0,19.68

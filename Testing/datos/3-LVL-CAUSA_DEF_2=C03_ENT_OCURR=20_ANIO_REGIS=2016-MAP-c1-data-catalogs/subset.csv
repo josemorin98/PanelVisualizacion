@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2016,20,123,C03,Women,2,>65,Oaxaca,Oax.,2829,1355,1474,759,20,123,San Bernardo Mixtepec,16.84441718,-96.91718107,1406-San Bernardo Mixtepec,160,1,625.0,51.25
+2016,20,242,C03,Men,1,>65,Oaxaca,Oax.,12436,5854,6582,2317,20,242,San Martín Peras,17.36169274,-98.24503381,1090-San Martín Peras,388,1,257.7319588,21.134
+2016,20,318,C03,Women,2,>65,Oaxaca,Oax.,49780,24008,25772,13918,20,318,San Pedro Mixtepec -Dto. 22 -,15.94964571,-97.06957763,1517-San Pedro Mixtepec -Dto. 22 -,1210,1,82.6446281,6.777

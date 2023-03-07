@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2003,16,43,C02,Men,1,>65,Michoac�n de Ocampo,Mich.,68781,33339,35442,17960,16,43,Jacona,19.93494144,-102.3160019,853-Jacona,1324,1,75.52870091,6.193
+2003,16,53,C02,Men,1,45_64,Michoac�n de Ocampo,Mich.,849053,407129,441924,244509,16,53,Morelia,19.66658131,-101.2791185,835-Morelia,42100,1,2.375296912,0.467

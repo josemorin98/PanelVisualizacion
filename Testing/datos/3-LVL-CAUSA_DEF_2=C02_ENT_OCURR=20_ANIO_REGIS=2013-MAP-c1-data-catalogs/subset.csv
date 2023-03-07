@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2013,20,43,C02,Women,2,>65,Oaxaca,Oax.,113570,54616,58954,28774,20,43,Heroica Ciudad de Juchitán de Zaragoza,16.38160316,-94.93109275,1522-Heroica Ciudad de Juchitán de Zaragoza,3342,1,29.92220227,2.454
+2013,20,57,C02,Women,2,>65,Oaxaca,Oax.,38183,18176,20007,11358,20,57,Matías Romero Avendaño,17.15560367,-94.99096906,1537-Matías Romero Avendaño,1880,1,53.19148936,4.362
+2013,20,125,C02,Women,2,>65,Oaxaca,Oax.,11662,5866,5796,2950,20,125,San Carlos Yautepec,16.41468324,-95.96223289,1286-San Carlos Yautepec,471,1,212.3142251,17.41
+2013,20,441,C02,Women,2,>65,Oaxaca,Oax.,9234,4560,4674,2237,20,441,Santa María Xadani,16.36346304,-95.02633963,1184-Santa María Xadani,198,1,505.0505051,41.414

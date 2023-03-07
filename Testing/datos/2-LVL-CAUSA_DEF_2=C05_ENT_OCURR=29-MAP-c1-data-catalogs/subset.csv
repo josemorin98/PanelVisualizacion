@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2001,29,13,C05,Men,1,>65,Tlaxcala,Tlax.,98764,47761,51003,23998,29,13,Huamantla,19.33244361,-97.93643381,2023-Huamantla,1387,1,72.09805335,5.912
+2001,29,23,C05,Women,2,>65,Tlaxcala,Tlax.,26309,12725,13584,6420,29,23,Natívitas,19.2333147,-98.33196217,2032-Natívitas,729,1,137.1742112,11.248
+2020,29,58,C05,Men,1,>65,Tlaxcala,Tlax.,9463,4567,4896,2220,29,58,Santa Catarina Ayometla,19.19342247,-98.21641469,2067-Santa Catarina Ayometla,353,1,283.286119,23.229
+2020,29,56,C05,Women,2,25_44,Tlaxcala,Tlax.,7952,3900,4052,1888,29,56,Santa Ana Nopalucan,19.29701103,-98.33322249,2065-Santa Ana Nopalucan,1276,1,78.36990596,22.947

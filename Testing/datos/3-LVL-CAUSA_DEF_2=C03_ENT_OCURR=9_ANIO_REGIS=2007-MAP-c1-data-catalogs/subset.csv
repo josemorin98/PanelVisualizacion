@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2007,9,8,C03,Men,1,>65,Ciudad de M�xico,CDMX,247622,118287,129335,68107,9,8,La Magdalena Contreras,19.2689765,-99.26841291,2450-La Magdalena Contreras,6079,1,16.45007403,1.349
+2007,9,10,C03,Men,1,>65,Ciudad de M�xico,CDMX,759137,361007,398130,219445,9,10,Álvaro Obregón,19.33617556,-99.24681971,2453-Álvaro Obregón,20494,2,9.75895384,0.8
+2007,9,14,C03,Women,2,15_24,Ciudad de M�xico,CDMX,434153,202121,232032,176175,9,14,Benito Juárez,19.38064242,-99.16113466,2451-Benito Juárez,27856,1,3.589890867,0.599

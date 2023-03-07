@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2006,6,2,C02,Men,1,>65,Colima,Col.,157048,76155,80893,50440,6,2,Colima,19.11609609,-103.6326678,143-Colima,4376,1,22.85191956,1.874
+2006,6,10,C02,Men,1,>65,Colima,Col.,149762,72354,77408,49091,6,10,Villa de Álvarez,19.30960166,-103.8444266,151-Villa de Álvarez,1683,1,59.41770648,4.872

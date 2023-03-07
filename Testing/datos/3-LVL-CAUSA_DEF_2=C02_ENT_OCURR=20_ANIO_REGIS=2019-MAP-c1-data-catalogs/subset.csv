@@ -1,0 +1,6 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2019,20,293,C02,Men,1,>65,Oaxaca,Oax.,17116,8033,9083,5054,20,293,San Pablo Etla,17.16366076,-96.73374565,1457-San Pablo Etla,356,1,280.8988764,23.034
+2019,20,437,C02,Women,2,>65,Oaxaca,Oax.,9653,4575,5078,2452,20,437,Santa María Tlahuitoltepec,17.11428485,-96.05367628,1188-Santa María Tlahuitoltepec,507,1,197.2386588,16.174
+2019,20,157,C02,Men,1,45_64,Oaxaca,Oax.,16827,7989,8838,4787,20,157,San Jacinto Amilpas,17.09536839,-96.75743125,1471-San Jacinto Amilpas,1448,1,69.06077348,13.591
+2019,20,205,C02,Women,2,45_64,Oaxaca,Oax.,16989,8244,8745,4497,20,205,San Juan Lalana,17.4932958,-95.79130654,1539-San Juan Lalana,1698,1,58.89281508,11.59
+2019,20,334,C02,Women,2,25_44,Oaxaca,Oax.,50541,24533,26008,14836,20,334,Villa de Tututepec de Melchor Ocampo,16.07768153,-97.53747616,1536-Villa de Tututepec de Melchor Ocampo,6670,1,14.99250375,4.39

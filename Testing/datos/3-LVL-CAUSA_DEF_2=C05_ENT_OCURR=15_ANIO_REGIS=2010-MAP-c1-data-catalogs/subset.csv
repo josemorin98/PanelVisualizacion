@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2010,15,33,C05,Men,1,45_64,M�xico,Mex.,1645352,798549,846803,448688,15,33,Ecatepec de Morelos,19.57278373,-99.04321174,735-Ecatepec de Morelos,143247,1,0.698094899,0.137
+2010,15,39,C05,Men,1,45_64,M�xico,Mex.,542211,263083,279128,146994,15,39,Ixtapaluca,19.34279689,-98.77906817,740-Ixtapaluca,32900,1,3.039513678,0.598

@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2011,20,64,C02,Women,2,>65,Oaxaca,Oax.,8494,4167,4327,2382,20,64,Nejapa de Madero,16.6686923,-95.79415893,1555-Nejapa de Madero,396,1,252.5252525,20.707
+2011,20,385,C02,Women,2,45_64,Oaxaca,Oax.,100402,47016,53386,27498,20,385,Santa Cruz Xoxocotlán,17.01902122,-96.74859525,1440-Santa Cruz Xoxocotlán,6432,1,15.54726368,3.06
+2011,20,401,C02,Men,1,45_64,Oaxaca,Oax.,27046,13241,13805,7079,20,401,Santa María Colotepec,15.86198934,-96.92215416,1518-Santa María Colotepec,1476,1,67.75067751,13.333
+2011,20,401,C02,Women,2,25_44,Oaxaca,Oax.,27046,13241,13805,7079,20,401,Santa María Colotepec,15.86198934,-96.92215416,1518-Santa María Colotepec,3293,1,30.3674461,8.892

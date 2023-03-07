@@ -1,0 +1,358 @@
+[
+   {
+        "cod_3": "C00",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL LABIO"
+    },
+    {
+        "cod_3": "C01",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA BASE DE LA LENGUA"
+    },
+    {
+        "cod_3": "C02",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE OTRAS PARTES Y DE LAS NO ESPECIFICADAS DE LA LENGUA"
+    },
+    {
+        "cod_3": "C03",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA ENCIA"
+    },
+    {
+        "cod_3": "C04",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL PISO DE LA BOCA"
+    },
+    {
+        "cod_3": "C05",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL PALADAR"
+    },
+    {
+        "cod_3": "C06",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE OTRAS PARTES Y DE LAS NO ESPECIFICADAS DE LA BOCA"
+    },
+    {
+        "cod_3": "C07",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA GLANDULA PAROTIDA"
+    },
+    {
+        "cod_3": "C08",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE OTRAS GLANDULAS SALIVALES MAYORES Y DE LAS NO ESPECIFICADAS"
+    },
+    {
+        "cod_3": "C09",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA AMIGDALA"
+    },
+    {
+        "cod_3": "C10",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA OROFARINGE"
+    },
+    {
+        "cod_3": "C11",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA NASOFARINGE"
+    },
+    {
+        "cod_3": "C12",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL SENO PIRIFORME"
+    },
+    {
+        "cod_3": "C13",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA HIPOFARINGE"
+    },
+    {
+        "cod_3": "C14",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE OTROS SITIOS Y DE LOS MAL DEFINIDOS DEL LABIO, DE LA CAVIDAD BUCAL Y DE LA FARINGE"
+    },
+    {
+        "cod_3": "C15",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL ESOFAGO"
+    },
+    {
+        "cod_3": "C16",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL ESTOMAGO"
+    },
+    {
+        "cod_3": "C17",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL INTESTINO DELGADO"
+    },
+    {
+        "cod_3": "C18",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL COLON"
+    },
+    {
+        "cod_3": "C19",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA UNION RECTOSIGMOIDEA"
+    },
+    {
+        "cod_3": "C20",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL RECTO"
+    },
+    {
+        "cod_3": "C21",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL ANO Y DEL CONDUCTO ANAL"
+    },
+    {
+        "cod_3": "C22",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL HIGADO Y DE LAS VIAS BILIARES INTRAHEPATICAS"
+    },
+    {
+        "cod_3": "C23",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA VESICULA BILIAR"
+    },
+    {
+        "cod_3": "C24",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE OTRAS PARTES Y DE LAS NO ESPECIFICADAS DE LAS VIAS BILIARES"
+    },
+    {
+        "cod_3": "C25",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL PANCREAS"
+    },
+    {
+        "cod_3": "C26",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE OTROS SITIOS Y DE LOS MAL DEFINIDOS DE LOS ORGANOS DIGESTIVOS"
+    },
+    {
+        "cod_3": "C30",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LAS FOSAS NASALES Y DEL OIDO MEDIO"
+    },
+    {
+        "cod_3": "C31",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LOS SENOS PARANASALES"
+    },
+    {
+        "cod_3": "C32",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA LARINGE"
+    },
+    {
+        "cod_3": "C33",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA TRAQUEA"
+    },
+    {
+        "cod_3": "C34",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LOS BRONQUIOS Y DEL PULMON"
+    },
+    {
+        "cod_3": "C37",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL TIMO"
+    },
+    {
+        "cod_3": "C38",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL CORAZON, DEL MEDIASTINO Y DE LA PLEURA"
+    },
+    {
+        "cod_3": "C39",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE OTROS SITIOS Y DE LOS MAL DEFINIDOS DEL SISTEMA RESPIRATORIO Y DE LOS ORGANOS INTRATORACICOS"
+    },
+    {
+        "cod_3": "C40",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LOS HUESOS Y DE LOS CARTILAGOS ARTICULARES DE LOS MIEMBROS"
+    },
+    {
+        "cod_3": "C41",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LOS HUESOS Y DE LOS CARTILAGOS ARTICULARES, DE OTROS SITIOS Y DE SITIOS NO ESPECIFICADOS"
+    },
+    {
+        "cod_3": "C43",
+        "DESCR_CAT_3CAR": "MELANOMA MALIGNO DE LA PIEL"
+    },
+    {
+        "cod_3": "C44",
+        "DESCR_CAT_3CAR": "OTROS TUMORES MALIGNO DE LA PIEL"
+    },
+    {
+        "cod_3": "C45",
+        "DESCR_CAT_3CAR": "MESOTELIOMA"
+    },
+    {
+        "cod_3": "C46",
+        "DESCR_CAT_3CAR": "SARCOMA DE KAPOSI"
+    },
+    {
+        "cod_3": "C47",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LOS NERVIOS PERIFERICOS Y DEL SISTEMA NERVIOSO AUTONOMO"
+    },
+    {
+        "cod_3": "C48",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL PERITONEO Y RETROPERITONEO"
+    },
+    {
+        "cod_3": "C49",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO OTROS TEJIDOS CONJUNTIVOS Y DE TEJIDOS BLANDOS"
+    },
+    {
+        "cod_3": "C50",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA MAMA"
+    },
+    {
+        "cod_3": "C51",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA VULVA"
+    },
+    {
+        "cod_3": "C52",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA VAGINA"
+    },
+    {
+        "cod_3": "C53",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL CUELLO DEL UTERO"
+    },
+    {
+        "cod_3": "C54",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL CUERPO DEL UTERO"
+    },
+    {
+        "cod_3": "C55",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL UTERO PARTE NO ESPECIFICADA"
+    },
+    {
+        "cod_3": "C56",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL OVARIO"
+    },
+    {
+        "cod_3": "C57",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE OTROS ORGANOS GENITALES FEMENINOS Y LOS NO ESPECIFICADOS"
+    },
+    {
+        "cod_3": "C58",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA PLACENTA"
+    },
+    {
+        "cod_3": "C60",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL PENE"
+    },
+    {
+        "cod_3": "C61",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA PROSTATA"
+    },
+    {
+        "cod_3": "C62",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL TESTICULO"
+    },
+    {
+        "cod_3": "C63",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE OTROS ORGANOS GENITALES MASCULINOS Y DE LOS NO ESPECIFICADOS"
+    },
+    {
+        "cod_3": "C64",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL RINON EXCEPTO DE LA PELVIS RENAL"
+    },
+    {
+        "cod_3": "C65",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA PELVIS RENAL"
+    },
+    {
+        "cod_3": "C66",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL URETER"
+    },
+    {
+        "cod_3": "C67",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA VEJIGA URINARIA"
+    },
+    {
+        "cod_3": "C68",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO OTROS ORGANOS URINARIOS Y DE LOS NO ESPECIFICADOS"
+    },
+    {
+        "cod_3": "C69",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL OJO Y SUS ANEXOS"
+    },
+    {
+        "cod_3": "C70",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LAS MENINGES"
+    },
+    {
+        "cod_3": "C71",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DEL ENCEFALO"
+    },
+    {
+        "cod_3": "C72",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA MEDULA ESPINAL, DE LOS NERVIOS CRANEALES Y DE OTRAS PARTES DEL SISTEMA NERVIOSO CENTRAL"
+    },
+    {
+        "cod_3": "C73",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA GLANDULA TIROIDES"
+    },
+    {
+        "cod_3": "C74",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE LA GLANDULA SUPRARRENAL"
+    },
+    {
+        "cod_3": "C75",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE OTRAS GLANDULAS ENDOCRINAS Y DE ESTRUCTURAS AFINES"
+    },
+    {
+        "cod_3": "C76",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNODE OTROS SITIOS Y DE SITIOS MAL DEFINIDOS"
+    },
+    {
+        "cod_3": "C77",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO SECUNDARIO Y EL NO ESPECIFICADO DE LOS GANGLIOS LINFATICOS"
+    },
+    {
+        "cod_3": "C78",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO SECUNDARIO DE LOS ORGANOS RESPIRATORIOS Y DIGESTIVOS"
+    },
+    {
+        "cod_3": "C79",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO SECUNDARIO DE OTROS SITIOS"
+    },
+    {
+        "cod_3": "C80",
+        "DESCR_CAT_3CAR": "TUMOR MALIGNO DE SITIOS NO ESPECIFICADOS"
+    },
+    {
+        "cod_3": "C81",
+        "DESCR_CAT_3CAR": "ENFERMEDAD DE HODGKIN"
+    },
+    {
+        "cod_3": "C82",
+        "DESCR_CAT_3CAR": "LINFOMA NO HODGKIN FOLICULAR [ NODULAR ]"
+    },
+    {
+        "cod_3": "C83",
+        "DESCR_CAT_3CAR": "LINFOMA NO-HODGKIN DIFUSO"
+    },
+    {
+        "cod_3": "C84",
+        "DESCR_CAT_3CAR": "LINFOMA CELULAS T, PERIFERICO Y CUTANEO"
+    },
+    {
+        "cod_3": "C85",
+        "DESCR_CAT_3CAR": "LINFOMA NO HODGKIN DE OTRO TIPO Y EL NO ESPECIFICADO"
+    },
+    {
+        "cod_3": "C86",
+        "DESCR_CAT_3CAR": ""
+    },
+    {
+        "cod_3": "C88",
+        "DESCR_CAT_3CAR": "ENFERMEDADES INMUNOPROLIFERATIVAS MALIGNAS"
+    },
+    {
+        "cod_3": "C90",
+        "DESCR_CAT_3CAR": "MIELOMA MULTIPLES Y TUMORES MALIGNOS DE CELULAS PLASMATICAS"
+    },
+    {
+        "cod_3": "C91",
+        "DESCR_CAT_3CAR": "LEUCEMIA LINFOIDE"
+    },
+    {
+        "cod_3": "C92",
+        "DESCR_CAT_3CAR": "LEUCEMIA MIELOIDE"
+    },
+    {
+        "cod_3": "C93",
+        "DESCR_CAT_3CAR": "LEUCEMIA MONOCITICA"
+    },
+    {
+        "cod_3": "C94",
+        "DESCR_CAT_3CAR": "OTRAS LEUCEMIAS DE TIPO CELULAR ESPECIFICADO"
+    },
+    {
+        "cod_3": "C95",
+        "DESCR_CAT_3CAR": "LEUCEMIA DE CELULAS DE TIPO NO ESPECIFICADO"
+    },
+    {
+        "cod_3": "C96",
+        "DESCR_CAT_3CAR": "OTROS TUMORES MALIGNOS Y LOS NO ESPECIFICADOS DEL TEJIDO LINFATICO, DE LOS ORGANOS HEMATOPOYETICOS Y DE TEJIDOS AFINES"
+    },
+    {
+        "cod_3": "C97",
+        "DESCR_CAT_3CAR": "TUMORES MALIGNOS ( PRIMARIOS ) DE SITIOS MULTIPLES INDEPENDIENTES"
+    }
+]

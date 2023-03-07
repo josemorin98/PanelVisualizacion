@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2013,29,13,C54,Women,2,>65,Tlaxcala,Tlax.,98764,47761,51003,23998,29,13,Huamantla,19.33244361,-97.93643381,2023-Huamantla,2624,1,38.1097561,3.125
+2013,29,24,C54,Women,2,>65,Tlaxcala,Tlax.,28357,13419,14938,7680,29,24,Panotla,19.35211769,-98.28415338,2033-Panotla,1151,1,86.88097307,7.124
+2013,29,15,C54,Women,2,45_64,Tlaxcala,Tlax.,38970,18916,20054,10170,29,15,Ixtacuixtla de Mariano Matamoros,19.35611285,-98.38330259,2025-Ixtacuixtla de Mariano Matamoros,3376,1,29.62085308,5.829
+2013,29,33,C54,Women,2,25_44,Tlaxcala,Tlax.,99896,47252,52644,28873,29,33,Tlaxcala,19.30934734,-98.23669393,2042-Tlaxcala,16437,1,6.08383525,1.781

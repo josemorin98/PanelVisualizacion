@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2013,8,37,C01,Men,1,>65,Chihuahua,Chih.,1512450,756977,755473,449602,8,37,Juárez,31.44966527,-106.5641134,271-Juárez,26573,1,3.763218304,0.309
+2013,8,37,C01,Men,1,45_64,Chihuahua,Chih.,1512450,756977,755473,449602,8,37,Juárez,31.44966527,-106.5641134,271-Juárez,108996,1,0.917464861,0.181

@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2009,12,1,C02,Men,1,>65,Guerrero,Gro.,779566,371794,407772,224027,12,1,Acapulco de Juárez,16.95720934,-99.7142958,508-Acapulco de Juárez,18734,1,5.337888331,0.438
+2009,12,23,C02,Men,1,>65,Guerrero,Gro.,26627,13184,13443,7445,12,23,Cuajinicuilapa,16.46196849,-98.51767037,479-Cuajinicuilapa,804,1,124.3781095,10.199
+2009,12,29,C02,Men,1,>65,Guerrero,Gro.,283354,134497,148857,72566,12,29,Chilpancingo de los Bravo,17.39083353,-99.69744739,432-Chilpancingo de los Bravo,4863,1,20.56343821,1.686
+2009,12,7,C02,Men,1,45_64,Guerrero,Gro.,33267,16059,17208,8953,12,7,Arcelia,18.25261897,-100.1987864,488-Arcelia,2463,1,40.60089322,7.99

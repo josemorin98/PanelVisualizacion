@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2004,15,33,C04,Women,2,45_64,M�xico,Mex.,1645352,798549,846803,448688,15,33,Ecatepec de Morelos,19.57278373,-99.04321174,735-Ecatepec de Morelos,118681,1,0.842594855,0.166
+2004,15,57,C04,Women,2,45_64,M�xico,Mex.,834434,402495,431939,240246,15,57,Naucalpan de Juárez,19.47125315,-99.29260539,744-Naucalpan de Juárez,73725,1,1.356391997,0.267

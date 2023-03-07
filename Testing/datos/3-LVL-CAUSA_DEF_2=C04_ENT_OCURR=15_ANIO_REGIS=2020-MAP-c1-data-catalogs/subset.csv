@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2020,15,31,C04,Women,2,>65,M�xico,Mex.,705193,344571,360622,180791,15,31,Chimalhuacán,19.41623429,-98.94716723,734-Chimalhuacán,16799,1,5.952735282,0.488
+2020,15,58,C04,Men,1,45_64,M�xico,Mex.,1077208,519922,557286,298004,15,58,Nezahualcóyotl,19.42257866,-99.02269952,745-Nezahualcóyotl,123854,1,0.807402264,0.159
+2020,15,90,C04,Men,1,45_64,M�xico,Mex.,90518,44490,46028,21106,15,90,Tenango del Valle,19.08166441,-99.62926096,62-Tenango del Valle,8083,1,12.37164419,2.435

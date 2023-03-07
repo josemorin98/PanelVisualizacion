@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2005,11,35,C05,Women,2,>65,Guanajuato,Gto.,82340,39162,43178,19432,11,35,Santa Cruz de Juventino Rosas,20.6741044,-100.9940839,418-Santa Cruz de Juventino Rosas,2059,1,48.56726566,3.983
+2005,11,3,C05,Men,1,45_64,Guanajuato,Gto.,174615,83077,91538,44573,11,3,San Miguel de Allende,20.9252506,-100.7377274,406-San Miguel de Allende,8314,1,12.02790474,2.367
+2005,11,44,C05,Women,2,45_64,Guanajuato,Gto.,65791,31987,33804,16401,11,44,Villagrán,20.5419619,-100.9925124,417-Villagrán,3408,1,29.342723,5.775

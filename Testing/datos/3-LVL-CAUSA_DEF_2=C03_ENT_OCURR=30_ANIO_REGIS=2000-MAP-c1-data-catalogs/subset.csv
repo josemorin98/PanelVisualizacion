@@ -1,0 +1,6 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2000,30,17,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,4709,2363,2346,1520,30,17,Apazapan,19.33823426,-96.67004061,2088-Apazapan,176,1,568.1818182,46.591
+2000,30,30,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,41835,19687,22148,11735,30,30,Camerino Z. Mendoza,18.79042982,-97.1633954,2101-Camerino Z. Mendoza,1315,1,76.04562738,6.236
+2000,30,61,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,81080,39349,41731,22434,30,61,Las Choapas,17.5358358,-93.95723578,2132-Las Choapas,1487,1,67.24949563,5.514
+2000,30,21,C03,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,23461,11351,12110,7094,30,21,Atoyac,18.92792948,-96.7965438,2092-Atoyac,1882,1,53.13496281,10.457
+2000,30,39,C03,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,310698,149139,161559,98227,30,39,Coatzacoalcos,18.13255848,-94.39736763,2110-Coatzacoalcos,16551,1,6.041931001,1.189

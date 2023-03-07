@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2003,10,18,C05,Men,1,45_64,Durango,Dgo.,10384,5183,5201,3258,10,18,El Oro,25.54902415,-105.2158506,364-El Oro,1097,1,91.15770283,17.94
+2003,10,5,C05,Women,2,25_44,Durango,Dgo.,688697,335412,353285,186870,10,5,Durango,23.97048254,-104.8437012,356-Durango,78922,1,1.26707382,0.371

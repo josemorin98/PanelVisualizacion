@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2012,29,13,C54,Women,2,>65,Tlaxcala,Tlax.,98764,47761,51003,23998,29,13,Huamantla,19.33244361,-97.93643381,2023-Huamantla,2532,1,39.49447077,3.239
+2012,29,33,C54,Women,2,>65,Tlaxcala,Tlax.,99896,47252,52644,28873,29,33,Tlaxcala,19.30934734,-98.23669393,2042-Tlaxcala,2912,1,34.34065934,2.816
+2012,29,25,C54,Women,2,25_44,Tlaxcala,Tlax.,82688,40802,41886,18316,29,25,San Pablo del Monte,19.15611741,-98.1403641,2034-San Pablo del Monte,11095,1,9.01306895,2.639

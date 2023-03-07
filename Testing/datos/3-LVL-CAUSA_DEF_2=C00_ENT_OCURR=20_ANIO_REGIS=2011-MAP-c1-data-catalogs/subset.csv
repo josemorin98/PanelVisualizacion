@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2011,20,505,C00,Women,2,>65,Oaxaca,Oax.,7681,3765,3916,2501,20,505,Santo Domingo Ingenio,16.57960531,-94.7315566,1170-Santo Domingo Ingenio,453,1,220.7505519,18.102
+2011,20,539,C00,Women,2,>65,Oaxaca,Oax.,6348,3077,3271,1669,20,539,Soledad Etla,17.16066771,-96.82630071,1425-Soledad Etla,185,1,540.5405405,44.324

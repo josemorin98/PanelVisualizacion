@@ -1,0 +1,7 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2020,20,22,C02,Women,2,>65,Oaxaca,Oax.,803,385,418,297,20,22,Cosoltepec,18.13803675,-97.80167377,1332-Cosoltepec,159,1,628.9308176,51.572
+2020,20,49,C02,Men,1,>65,Oaxaca,Oax.,1184,585,599,315,20,49,Magdalena Ocotlán,16.70859393,-96.71497296,1479-Magdalena Ocotlán,56,1,1785.714286,146.429
+2020,20,73,C02,Women,2,>65,Oaxaca,Oax.,34652,16189,18463,9376,20,73,Putla Villa de Guerrero,16.99831356,-97.89361468,1542-Putla Villa de Guerrero,1704,1,58.68544601,4.812
+2020,20,163,C02,Women,2,>65,Oaxaca,Oax.,1577,732,845,455,20,163,San Jerónimo Tecóatl,18.15379816,-96.92903245,1014-San Jerónimo Tecóatl,114,1,877.1929825,71.93
+2020,20,473,C02,Men,1,>65,Oaxaca,Oax.,1291,595,696,375,20,473,Santiago Laxopa,17.20041947,-96.32594456,1175-Santiago Laxopa,92,1,1086.956522,89.13
+2020,20,116,C02,Men,1,45_64,Oaxaca,Oax.,4131,1951,2180,1130,20,116,San Bartolomé Ayautla,18.0500786,-96.67552201,1290-San Bartolomé Ayautla,338,1,295.8579882,58.225

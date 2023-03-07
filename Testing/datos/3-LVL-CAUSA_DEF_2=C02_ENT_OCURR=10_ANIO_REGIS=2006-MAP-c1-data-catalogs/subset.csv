@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2006,10,5,C02,Men,1,>65,Durango,Dgo.,688697,335412,353285,186870,10,5,Durango,23.97048254,-104.8437012,356-Durango,12853,1,7.780284758,0.638
+2006,10,9,C02,Women,2,>65,Durango,Dgo.,9869,5153,4716,2883,10,9,Guanaceví,25.99631573,-106.0672243,380-Guanaceví,357,1,280.1120448,22.969

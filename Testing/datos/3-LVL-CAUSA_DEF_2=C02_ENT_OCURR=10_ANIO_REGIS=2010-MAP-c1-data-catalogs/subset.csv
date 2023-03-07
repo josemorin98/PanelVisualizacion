@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2010,10,5,C02,Women,2,>65,Durango,Dgo.,688697,335412,353285,186870,10,5,Durango,23.97048254,-104.8437012,356-Durango,18365,1,5.445140212,0.447
+2010,10,28,C02,Men,1,>65,Durango,Dgo.,12013,5921,6092,3125,10,28,San Juan del Río,24.80735337,-104.4704012,373-San Juan del Río,626,1,159.7444089,13.099
+2010,10,20,C02,Men,1,45_64,Durango,Dgo.,12656,6303,6353,3622,10,20,Pánuco de Coronado,24.49485755,-104.3540418,366-Pánuco de Coronado,1104,1,90.57971014,17.826

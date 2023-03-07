@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2009,30,11,C01,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,57035,27938,29097,18446,30,11,Alvarado,18.79995005,-95.85033618,2082-Alvarado,5089,1,19.65022598,3.867
+2009,30,83,C01,Men,1,25_44,Veracruz de Ignacio de la Llave,Ver.,50836,24723,26113,14058,30,83,Ixhuatlán de Madero,20.72305338,-98.00998054,2154-Ixhuatlán de Madero,5430,1,18.41620626,5.392

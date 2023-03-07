@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2020,14,70,C00,Men,1,>65,Jalisco,Jal.,232852,121690,111162,59178,14,70,El Salto,20.53902526,-103.2454573,662-El Salto,4012,1,24.92522433,2.044
+2020,14,27,C00,Men,1,25_44,Jalisco,Jal.,18370,9347,9023,4961,14,27,Cuautitlán de García Barragán,19.43563169,-104.311053,619-Cuautitlán de García Barragán,2409,1,41.51100042,12.154

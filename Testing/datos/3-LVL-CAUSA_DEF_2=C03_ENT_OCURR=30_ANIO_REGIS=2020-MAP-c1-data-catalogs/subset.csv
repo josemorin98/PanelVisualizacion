@@ -1,0 +1,8 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2020,30,37,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,8176,3990,4186,1973,30,37,Coahuitlán,20.26911892,-97.70579953,2108-Coahuitlán,310,1,322.5806452,26.452
+2020,30,39,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,310698,149139,161559,98227,30,39,Coatzacoalcos,18.13255848,-94.39736763,2110-Coatzacoalcos,10179,1,9.824147755,0.806
+2020,30,48,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,130903,62157,68746,40694,30,48,Cosoleacaque,18.01624261,-94.5680803,2119-Cosoleacaque,4691,1,21.31741633,1.748
+2020,30,87,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,488531,226821,261710,151306,30,87,Xalapa,19.54385763,-96.88833353,2158-Xalapa,24895,1,4.016870858,0.329
+2020,30,124,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,159910,77178,82732,45472,30,124,Papantla,20.41090014,-97.28632709,2195-Papantla,7707,1,12.97521733,1.064
+2020,30,131,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,189457,88204,101253,56971,30,131,Poza Rica de Hidalgo,20.53004888,-97.43847188,2202-Poza Rica de Hidalgo,9148,2,21.86270223,1.793
+2020,30,25,C03,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,27217,13238,13979,6424,30,25,Ayahualulco,19.40239567,-97.18310034,2096-Ayahualulco,2208,1,45.28985507,8.913

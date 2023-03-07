@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2003,20,300,C02,Men,1,45_64,Oaxaca,Oax.,6632,3080,3552,1888,20,300,San Pedro Amuzgos,16.67748923,-98.08367048,1066-San Pedro Amuzgos,336,1,297.6190476,58.571

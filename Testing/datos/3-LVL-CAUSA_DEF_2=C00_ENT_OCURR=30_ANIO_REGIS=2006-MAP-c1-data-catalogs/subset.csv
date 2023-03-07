@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2006,30,48,C00,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,130903,62157,68746,40694,30,48,Cosoleacaque,18.01624261,-94.5680803,2119-Cosoleacaque,2257,1,44.30660168,3.633
+2006,30,89,C00,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,38669,18192,20477,12270,30,89,Jáltipan,17.87041569,-94.71507467,2160-Jáltipan,1348,1,74.18397626,6.083
+2006,30,115,C00,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,37314,17775,19539,10712,30,115,Nogales,18.825356,-97.19899721,2186-Nogales,1192,1,83.89261745,6.879

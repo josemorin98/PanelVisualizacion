@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2019,12,1,C05,Men,1,45_64,Guerrero,Gro.,779566,371794,407772,224027,12,1,Acapulco de Juárez,16.95720934,-99.7142958,508-Acapulco de Juárez,78238,1,1.278151282,0.252
+2019,12,81,C05,Men,1,45_64,Guerrero,Gro.,11679,5566,6113,2711,12,81,Iliatenco,17.04710314,-98.63787709,478-Iliatenco,713,1,140.2524544,27.602

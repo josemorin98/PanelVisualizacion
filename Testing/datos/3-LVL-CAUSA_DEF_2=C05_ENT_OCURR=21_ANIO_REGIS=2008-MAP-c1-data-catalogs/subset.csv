@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2008,21,114,C05,Women,2,>65,Puebla,Pue.,1692181,809485,882696,477771,21,114,Puebla,19.00862013,-98.17553518,1765-Puebla,49504,1,2.020038785,0.166
+2008,21,45,C05,Women,2,45_64,Puebla,Pue.,47410,22788,24622,11723,21,45,Chalchicomula de Sesma,18.97734204,-97.42970984,1599-Chalchicomula de Sesma,3413,1,29.2997363,5.766

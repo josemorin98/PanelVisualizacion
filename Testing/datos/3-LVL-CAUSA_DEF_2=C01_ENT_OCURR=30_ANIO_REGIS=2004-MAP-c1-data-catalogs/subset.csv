@@ -1,0 +1,7 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2004,30,105,C01,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,95202,45685,49517,33236,30,105,Medellín,18.98827775,-96.1619109,2176-Medellín,1202,1,83.19467554,6.822
+2004,30,111,C01,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,16493,7953,8540,4960,30,111,Moloacán,17.98267481,-94.28574276,2182-Moloacán,449,1,222.7171492,18.263
+2004,30,118,C01,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,123182,56740,66442,37722,30,118,Orizaba,18.85586189,-97.10480787,2189-Orizaba,4618,1,21.65439584,1.776
+2004,30,129,C01,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,18053,8687,9366,5193,30,129,Platón Sánchez,21.29478302,-98.37572296,2200-Platón Sánchez,624,1,160.2564103,13.141
+2004,30,174,C01,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,95602,45759,49843,30821,30,174,Tierra Blanca,18.5498343,-96.28645195,2245-Tierra Blanca,2775,1,36.03603604,2.955
+2004,30,87,C01,Men,1,25_44,Veracruz de Ignacio de la Llave,Ver.,488531,226821,261710,151306,30,87,Xalapa,19.54385763,-96.88833353,2158-Xalapa,58032,1,1.723187207,0.505

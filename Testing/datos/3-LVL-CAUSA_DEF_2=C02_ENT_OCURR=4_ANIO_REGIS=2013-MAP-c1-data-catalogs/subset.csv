@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2013,4,4,C02,Men,1,>65,Campeche,Camp.,78170,39030,39140,21474,4,4,Champotón,19.13421195,-90.49931746,103-Champotón,2953,1,33.86386725,2.777
+2013,4,11,C02,Men,1,45_64,Campeche,Camp.,46913,23674,23239,13294,4,11,Candelaria,18.09903851,-90.7165644,98-Candelaria,3448,1,29.00232019,5.708

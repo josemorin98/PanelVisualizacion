@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2006,20,112,C04,Men,1,>65,Oaxaca,Oax.,2576,1225,1351,872,20,112,San Baltazar Chichicápam,16.76633415,-96.50736766,1473-San Baltazar Chichicápam,158,1,632.9113924,51.899
+2006,20,325,C04,Women,2,45_64,Oaxaca,Oax.,11930,5781,6149,3137,20,325,San Pedro Quiatoni,16.76726761,-96.03444782,1220-San Pedro Quiatoni,707,1,141.4427157,27.836

@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2004,6,2,C02,Women,2,>65,Colima,Col.,157048,76155,80893,50440,6,2,Colima,19.11609609,-103.6326678,143-Colima,5244,1,19.06941266,1.564
+2004,6,3,C02,Women,2,45_64,Colima,Col.,21661,10893,10768,6309,6,3,Comala,19.39344345,-103.7699941,144-Comala,1576,1,63.45177665,12.487

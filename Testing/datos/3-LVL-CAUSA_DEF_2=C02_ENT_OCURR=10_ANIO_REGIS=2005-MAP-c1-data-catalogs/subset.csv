@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2005,10,4,C02,Women,2,>65,Durango,Dgo.,34955,17515,17440,9339,10,4,Cuencamé,24.69480558,-103.7002874,355-Cuencamé,1245,1,80.32128514,6.586
+2005,10,7,C02,Men,1,45_64,Durango,Dgo.,372750,184537,188213,102752,10,7,Gómez Palacio,25.72797732,-103.4906318,343-Gómez Palacio,20768,1,4.815100154,0.948

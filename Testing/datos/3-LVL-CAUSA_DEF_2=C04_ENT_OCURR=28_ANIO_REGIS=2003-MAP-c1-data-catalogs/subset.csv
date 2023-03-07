@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2003,28,9,C04,Men,1,>65,Tamaulipas,Tamps.,205933,98248,107685,65658,28,9,Ciudad Madero,22.27951921,-97.82839588,1971-Ciudad Madero,4866,1,20.55076038,1.685
+2003,28,22,C04,Men,1,>65,Tamaulipas,Tamps.,541979,267898,274081,159609,28,22,Matamoros,25.61236294,-97.53291023,2010-Matamoros,8622,3,34.7947112,2.853

@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2018,32,33,C01,Men,1,>65,Zacatecas,Zac.,4530,2218,2312,1458,32,33,Moyahua de Estrada,21.19863024,-103.1643097,2405-Moyahua de Estrada,356,1,280.8988764,23.034
+2019,32,50,C01,Men,1,>65,Zacatecas,Zac.,10276,5005,5271,2642,32,50,Vetagrande,22.84805235,-102.4826421,2393-Vetagrande,283,1,353.3568905,28.975
+2002,32,56,C01,Women,2,45_64,Zacatecas,Zac.,149607,71972,77635,42424,32,56,Zacatecas,22.73573457,-102.6780786,2392-Zacatecas,9109,1,10.97815347,2.161

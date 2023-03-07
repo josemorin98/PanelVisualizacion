@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2000,13,19,C02,Men,1,>65,Hidalgo,Hgo.,18909,9190,9719,5159,13,19,Chilcuautla,20.32431946,-99.25513105,584-Chilcuautla,387,1,258.3979328,21.189
+2000,13,43,C02,Men,1,45_64,Hidalgo,Hgo.,6265,3036,3229,1760,13,43,Nicolás Flores,20.78647347,-99.17541269,539-Nicolás Flores,499,1,200.4008016,39.439
+2000,13,54,C02,Men,1,25_44,Hidalgo,Hgo.,36796,17869,18927,9808,13,54,San Salvador,20.3047487,-99.04786106,588-San Salvador,3729,1,26.81684098,7.852

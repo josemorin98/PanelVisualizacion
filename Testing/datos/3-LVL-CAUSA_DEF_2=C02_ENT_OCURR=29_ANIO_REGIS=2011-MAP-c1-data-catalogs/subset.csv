@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2011,29,19,C02,Women,2,>65,Tlaxcala,Tlax.,22274,10699,11575,5695,29,19,Tepetitla de Lardizábal,19.28195839,-98.37922152,2029-Tepetitla de Lardizábal,586,1,170.6484642,13.993
+2011,29,33,C02,Women,2,>65,Tlaxcala,Tlax.,99896,47252,52644,28873,29,33,Tlaxcala,19.30934734,-98.23669393,2042-Tlaxcala,2806,1,35.63791875,2.922

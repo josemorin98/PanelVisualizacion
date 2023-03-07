@@ -1,0 +1,32 @@
+RESULTS OF REGRESSION OF ANIO_REGIS and TASA_AJUSTADA 
+
+RMSE: 14.932177822366599
+MODEL:                             OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.006
+Model:                            OLS   Adj. R-squared:                  0.004
+Method:                 Least Squares   F-statistic:                     3.350
+Date:                Sat, 26 Nov 2022   Prob (F-statistic):             0.0677
+Time:                        03:44:16   Log-Likelihood:                -2256.8
+No. Observations:                 579   AIC:                             4518.
+Df Residuals:                     577   BIC:                             4526.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        304.1474    163.510      1.860      0.063     -16.999     625.294
+x1            -0.1489      0.081     -1.830      0.068      -0.309       0.011
+==============================================================================
+Omnibus:                      619.930   Durbin-Watson:                   1.991
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            26894.916
+Skew:                           5.078   Prob(JB):                         0.00
+Kurtosis:                      34.807   Cond. No.                     6.62e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 6.62e+05. This might indicate that there are
+strong multicollinearity or other numerical problems. 
+Pearson: -0.03879262047446141
+P-value: 0.29723022084197265

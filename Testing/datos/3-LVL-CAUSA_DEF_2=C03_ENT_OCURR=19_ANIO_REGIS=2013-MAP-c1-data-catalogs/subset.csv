@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2013,19,21,C03,Women,2,>65,Nuevo Le�n,NL,481213,242161,239052,131741,19,21,General Escobedo,25.82196865,-100.3555678,974-General Escobedo,6053,1,16.52073352,1.355
+2013,19,39,C03,Women,2,45_64,Nuevo Le�n,NL,1142994,564805,578189,329095,19,39,Monterrey,25.64483194,-100.3110151,988-Monterrey,118442,1,0.844295098,0.166

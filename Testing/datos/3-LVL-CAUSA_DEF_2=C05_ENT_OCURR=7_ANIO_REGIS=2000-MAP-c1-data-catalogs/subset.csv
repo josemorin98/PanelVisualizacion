@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2000,7,101,C05,Men,1,25_44,Chiapas,Chis.,604147,287524,316623,166210,7,101,Tuxtla Gutiérrez,16.73944748,-93.13729383,153-Tuxtla Gutiérrez,65500,1,1.526717557,0.447
+2000,7,79,C05,Women,2,15_24,Chiapas,Chis.,41793,20872,20921,10483,7,79,San Fernando,16.91313319,-93.20967827,168-San Fernando,2793,1,35.8037952,5.976

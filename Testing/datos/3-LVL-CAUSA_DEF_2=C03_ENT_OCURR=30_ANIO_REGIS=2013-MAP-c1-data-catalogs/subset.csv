@@ -1,0 +1,6 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2013,30,58,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,53858,26214,27644,15207,30,58,Chicontepec,21.00325252,-98.04062246,2129-Chicontepec,3115,1,32.10272873,2.632
+2013,30,122,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,18051,8880,9171,5567,30,122,Pajapan,18.20342171,-94.67790599,2193-Pajapan,477,1,209.6436059,17.191
+2013,30,201,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,45028,21765,23263,12241,30,201,Zongolica,18.64926051,-96.92548505,2272-Zongolica,1255,1,79.6812749,6.534
+2013,30,47,C03,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,59471,28715,30756,14328,30,47,Coscomatepec,19.05332286,-97.08946644,2118-Coscomatepec,3523,1,28.38489923,5.586
+2013,30,87,C03,Women,2,25_44,Veracruz de Ignacio de la Llave,Ver.,488531,226821,261710,151306,30,87,Xalapa,19.54385763,-96.88833353,2158-Xalapa,81626,1,1.225099846,0.359

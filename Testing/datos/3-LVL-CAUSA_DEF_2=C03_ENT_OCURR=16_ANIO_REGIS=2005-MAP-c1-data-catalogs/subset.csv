@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2005,16,72,C03,Men,1,45_64,Michoac�n de Ocampo,Mich.,13961,6810,7151,3664,16,72,Queréndaro,19.72647699,-100.8467716,833-Queréndaro,919,1,108.8139282,21.415
+2005,16,2,C03,Women,2,05_14,Michoac�n de Ocampo,Mich.,14754,7335,7419,4315,16,2,Aguililla,18.77774207,-102.7610872,784-Aguililla,2322,1,43.06632214,7.446

@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2014,30,115,C04,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,37314,17775,19539,10712,30,115,Nogales,18.825356,-97.19899721,2186-Nogales,1457,1,68.63417982,5.628
+2014,30,131,C04,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,189457,88204,101253,56971,30,131,Poza Rica de Hidalgo,20.53004888,-97.43847188,2202-Poza Rica de Hidalgo,7732,1,12.93326436,1.061
+2014,30,3,C04,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,80815,38517,42298,23832,30,3,Acayucan,18.0366793,-95.03261136,2074-Acayucan,7811,1,12.80245807,2.52
+2014,30,193,C04,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,607209,287664,319545,202144,30,193,Veracruz,19.18582634,-96.22166824,2264-Veracruz,56199,1,1.779391092,0.35

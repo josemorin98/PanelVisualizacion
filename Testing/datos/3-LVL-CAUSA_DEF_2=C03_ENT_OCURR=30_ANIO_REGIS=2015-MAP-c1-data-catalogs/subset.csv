@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2015,30,13,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,26843,12669,14174,8369,30,13,Naranjos Amatlán,21.31317133,-97.68538713,2084-Naranjos Amatlán,1738,1,57.53739931,4.718
+2015,30,201,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,45028,21765,23263,12241,30,201,Zongolica,18.64926051,-96.92548505,2272-Zongolica,1354,1,73.85524372,6.056
+2015,30,27,C03,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,16120,7788,8332,4384,30,27,Benito Juárez,20.81924222,-98.17863349,2098-Benito Juárez,1669,1,59.91611744,11.791
+2015,30,87,C03,Women,2,45_64,Veracruz de Ignacio de la Llave,Ver.,488531,226821,261710,151306,30,87,Xalapa,19.54385763,-96.88833353,2158-Xalapa,56260,1,1.777461785,0.35

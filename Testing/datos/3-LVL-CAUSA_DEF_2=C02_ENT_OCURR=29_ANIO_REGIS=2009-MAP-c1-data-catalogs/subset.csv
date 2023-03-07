@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2009,29,25,C02,Men,1,>65,Tlaxcala,Tlax.,82688,40802,41886,18316,29,25,San Pablo del Monte,19.15611741,-98.1403641,2034-San Pablo del Monte,1096,1,91.24087591,7.482
+2009,29,13,C02,Men,1,45_64,Tlaxcala,Tlax.,98764,47761,51003,23998,29,13,Huamantla,19.33244361,-97.93643381,2023-Huamantla,5226,1,19.13509376,3.766

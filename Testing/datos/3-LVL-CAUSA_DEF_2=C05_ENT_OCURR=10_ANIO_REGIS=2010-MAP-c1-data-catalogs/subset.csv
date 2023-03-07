@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2010,10,12,C05,Men,1,>65,Durango,Dgo.,163313,80856,82457,44727,10,12,Lerdo,25.4776453,-103.6858344,378-Lerdo,3849,1,25.98077423,2.13
+2010,10,12,C05,Women,2,25_44,Durango,Dgo.,163313,80856,82457,44727,10,12,Lerdo,25.4776453,-103.6858344,378-Lerdo,21021,1,4.757147614,1.393

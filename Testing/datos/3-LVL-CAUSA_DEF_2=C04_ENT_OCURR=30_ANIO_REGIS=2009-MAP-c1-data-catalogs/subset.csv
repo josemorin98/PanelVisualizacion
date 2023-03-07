@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2009,30,69,C04,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,24085,11188,12897,7682,30,69,Gutiérrez Zamora,20.44637395,-97.10959092,2140-Gutiérrez Zamora,1215,1,82.30452675,6.749
+2009,30,181,C04,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,37795,18380,19415,12540,30,181,Tlalixcoyan,18.75498342,-96.16951855,2252-Tlalixcoyan,1722,1,58.07200929,4.762
+2009,30,18,C04,Women,2,25_44,Veracruz de Ignacio de la Llave,Ver.,1978,929,1049,486,30,18,Aquila,18.78889023,-97.32424391,2089-Aquila,231,1,432.9004329,126.753

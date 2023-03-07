@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2005,14,98,C01,Men,1,>65,Jalisco,Jal.,687127,338844,348283,185374,14,98,San Pedro Tlaquepaque,20.59139873,-103.3478285,690-San Pedro Tlaquepaque,9065,1,11.0314396,0.905

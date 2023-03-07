@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2016,14,39,C00,Men,1,>65,Jalisco,Jal.,1385629,666997,718632,398966,14,39,Guadalajara,20.67597105,-103.3358072,631-Guadalajara,55933,1,1.787853325,0.147
+2016,14,23,C00,Men,1,45_64,Jalisco,Jal.,115141,56188,58953,31499,14,23,Zapotlán el Grande,19.71077367,-103.5103369,615-Zapotlán el Grande,9945,1,10.05530417,1.979
+2016,14,97,C00,Men,1,25_44,Jalisco,Jal.,727750,360342,367408,212350,14,97,Tlajomulco de Zúñiga,20.47869601,-103.4173673,689-Tlajomulco de Zúñiga,93274,1,1.072110127,0.314

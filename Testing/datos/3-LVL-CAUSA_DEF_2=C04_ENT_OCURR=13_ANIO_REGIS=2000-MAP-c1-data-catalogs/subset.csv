@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2000,13,77,C04,Men,1,>65,Hidalgo,Hgo.,168369,79767,88602,45979,13,77,Tulancingo de Bravo,20.12360121,-98.35093969,592-Tulancingo de Bravo,2030,1,49.26108374,4.039
+2000,13,27,C04,Men,1,45_64,Hidalgo,Hgo.,22846,11016,11830,6268,13,27,Huehuetla,20.51415863,-98.06408679,527-Huehuetla,1616,1,61.88118812,12.178

@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2003,30,118,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,123182,56740,66442,37722,30,118,Orizaba,18.85586189,-97.10480787,2189-Orizaba,6808,1,14.68860165,1.204
+2003,30,126,C03,Women,2,>65,Veracruz de Ignacio de la Llave,Ver.,33442,16531,16911,10627,30,126,Paso de Ovejas,19.24636713,-96.45004916,2197-Paso de Ovejas,1255,1,79.6812749,6.534
+2003,30,197,C03,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,11205,5543,5662,3311,30,197,Yecuatla,19.84816786,-96.77341547,2268-Yecuatla,431,1,232.0185615,19.026

@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2001,5,18,C05,Men,1,>65,Coahuila de Zaragoza,Coah.,237951,118058,119893,69906,5,18,Monclova,26.89685678,-101.194394,129-Monclova,3961,1,25.24614996,2.07
+2001,5,7,C05,Women,2,45_64,Coahuila de Zaragoza,Coah.,12715,6365,6350,3777,5,7,Cuatro Ciénegas,26.69910387,-102.2989827,138-Cuatro Ciénegas,908,1,110.1321586,21.674
+2001,5,9,C05,Women,2,45_64,Coahuila de Zaragoza,Coah.,59035,29217,29818,15901,5,9,Francisco I. Madero,26.32014576,-103.1808574,136-Francisco I. Madero,3502,1,28.55511136,5.62

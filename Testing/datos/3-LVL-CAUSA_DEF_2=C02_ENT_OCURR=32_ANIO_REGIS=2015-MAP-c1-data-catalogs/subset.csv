@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2015,32,17,C02,Men,1,>65,Zacatecas,Zac.,211740,102455,109285,60476,32,17,Guadalupe,22.78020306,-102.4076267,2395-Guadalupe,2995,1,33.38898164,2.738
+2015,32,24,C02,Men,1,>65,Zacatecas,Zac.,53709,26267,27442,13004,32,24,Loreto,22.28458234,-101.9588052,2435-Loreto,1454,1,68.77579092,5.64

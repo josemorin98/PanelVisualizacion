@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2004,20,469,C02,Women,2,>65,Oaxaca,Oax.,34735,16527,18208,7595,20,469,Santiago Juxtlahuaca,17.19416677,-98.01877467,1108-Santiago Juxtlahuaca,1072,1,93.28358209,7.649
+2004,20,10,C02,Men,1,45_64,Oaxaca,Oax.,13474,6502,6972,4336,20,10,El Barrio de la Soledad,16.78827691,-95.04303655,1529-El Barrio de la Soledad,1117,1,89.52551477,17.619
+2004,20,85,C02,Women,2,45_64,Oaxaca,Oax.,26194,12778,13416,5465,20,85,San Agustín Loxicha,15.97617643,-96.6208192,1297-San Agustín Loxicha,1306,1,76.56967841,15.069
+2004,20,500,C02,Men,1,45_64,Oaxaca,Oax.,7991,3753,4238,2415,20,500,Santiago Yosondúa,16.85047627,-97.53113824,1362-Santiago Yosondúa,578,1,173.0103806,34.048

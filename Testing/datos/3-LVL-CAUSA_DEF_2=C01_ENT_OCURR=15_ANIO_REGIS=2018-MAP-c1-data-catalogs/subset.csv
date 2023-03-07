@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2018,15,99,C01,Women,2,>65,M�xico,Mex.,277562,134940,142622,72119,15,99,Texcoco,19.47162415,-98.82779219,762-Texcoco,9738,1,10.26904909,0.842
+2018,15,57,C01,Men,1,45_64,M�xico,Mex.,834434,402495,431939,240246,15,57,Naucalpan de Juárez,19.47125315,-99.29260539,744-Naucalpan de Juárez,89436,1,1.118117984,0.22

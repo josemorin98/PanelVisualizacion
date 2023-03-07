@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2012,12,1,C02,Men,1,>65,Guerrero,Gro.,779566,371794,407772,224027,12,1,Acapulco de Juárez,16.95720934,-99.7142958,508-Acapulco de Juárez,20761,1,4.816723665,0.395
+2012,12,1,C02,Women,2,>65,Guerrero,Gro.,779566,371794,407772,224027,12,1,Acapulco de Juárez,16.95720934,-99.7142958,508-Acapulco de Juárez,27494,1,3.637157198,0.298
+2012,12,27,C02,Women,2,>65,Guerrero,Gro.,20537,10188,10349,6209,12,27,Cutzamala de Pinzón,18.65981605,-100.6179164,492-Cutzamala de Pinzón,1346,1,74.29420505,6.092
+2012,12,50,C02,Men,1,>65,Guerrero,Gro.,38482,18789,19693,10224,12,50,Pungarabato,18.34562443,-100.6114725,506-Pungarabato,1192,1,83.89261745,6.879

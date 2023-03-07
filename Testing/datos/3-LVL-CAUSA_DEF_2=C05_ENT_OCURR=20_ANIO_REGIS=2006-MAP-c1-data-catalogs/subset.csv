@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2006,20,2,C05,Women,2,>65,Oaxaca,Oax.,45167,21980,23187,13012,20,2,Acatlán de Pérez Figueroa,18.45215291,-96.53956536,1040-Acatlán de Pérez Figueroa,1381,1,72.41129616,5.938
+2006,20,84,C05,Women,2,>65,Oaxaca,Oax.,4168,1984,2184,1201,20,84,San Agustín Etla,17.20126068,-96.7182607,1474-San Agustín Etla,181,1,552.4861878,45.304
+2006,20,270,C05,Men,1,45_64,Oaxaca,Oax.,1311,615,696,390,20,270,San Miguel Huautla,17.75443927,-97.146181,1076-San Miguel Huautla,102,1,980.3921569,192.941

@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2000,13,2,C05,Men,1,>65,Hidalgo,Hgo.,46065,21717,24348,10445,13,2,Acaxochitlán,20.15984947,-98.19840393,513-Acaxochitlán,719,1,139.0820584,11.405
+2000,13,69,C05,Women,2,05_14,Hidalgo,Hgo.,168302,82047,86255,47540,13,69,Tizayuca,19.85252666,-98.96118415,568-Tizayuca,5564,1,17.97268152,3.107

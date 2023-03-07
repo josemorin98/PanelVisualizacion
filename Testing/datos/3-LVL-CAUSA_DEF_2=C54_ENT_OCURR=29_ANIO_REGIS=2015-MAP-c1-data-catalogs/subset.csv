@@ -1,0 +1,6 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2015,29,59,C54,Women,2,>65,Tlaxcala,Tlax.,7750,3829,3921,1722,29,59,Santa Cruz Quilehtla,19.21123526,-98.20459185,2068-Santa Cruz Quilehtla,202,1,495.049505,40.594
+2015,29,15,C54,Women,2,45_64,Tlaxcala,Tlax.,38970,18916,20054,10170,29,15,Ixtacuixtla de Mariano Matamoros,19.35611285,-98.38330259,2025-Ixtacuixtla de Mariano Matamoros,3678,1,27.18868951,5.351
+2015,29,31,C54,Women,2,45_64,Tlaxcala,Tlax.,35284,17253,18031,9514,29,31,Tetla de la Solidaridad,19.48224416,-98.07635291,2040-Tetla de la Solidaridad,2655,1,37.66478343,7.412
+2015,29,50,C54,Women,2,45_64,Tlaxcala,Tlax.,11761,5642,6119,2747,29,50,San Francisco Tetlanohcan,19.25711119,-98.08404382,2059-San Francisco Tetlanohcan,978,1,102.2494888,20.123
+2015,29,44,C54,Women,2,25_44,Tlaxcala,Tlax.,45717,21940,23777,11368,29,44,Zacatelco,19.19384801,-98.26038382,2053-Zacatelco,6897,1,14.49905756,4.245

@@ -1,0 +1,6 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2011,20,67,C05,Men,1,>65,Oaxaca,Oax.,270955,125852,145103,74590,20,67,Oaxaca de Juárez,17.10210531,-96.72412007,1500-Oaxaca de Juárez,7062,1,14.16029453,1.161
+2011,20,81,C05,Men,1,>65,Oaxaca,Oax.,1871,908,963,590,20,81,San Agustín Atenango,17.5891712,-97.99341397,1315-San Agustín Atenango,166,1,602.4096386,49.398
+2011,20,184,C05,Men,1,>65,Oaxaca,Oax.,159452,75967,83485,47234,20,184,San Juan Bautista Tuxtepec,18.02855889,-96.09253795,1270-San Juan Bautista Tuxtepec,4151,1,24.09058058,1.975
+2011,20,548,C05,Men,1,>65,Oaxaca,Oax.,1960,916,1044,601,20,548,Tepelmeme Villa de Morelos,18.00688345,-97.30108849,1384-Tepelmeme Villa de Morelos,114,1,877.1929825,71.93
+2011,20,551,C05,Men,1,>65,Oaxaca,Oax.,30254,14385,15869,8362,20,551,Tlacolula de Matamoros,16.87358398,-96.35934675,1551-Tlacolula de Matamoros,742,1,134.7708895,11.051

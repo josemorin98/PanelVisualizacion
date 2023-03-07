@@ -1,0 +1,2 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2000,20,278,C05,Men,1,25_44,Oaxaca,Oax.,38682,18612,20070,10427,20,278,San Miguel Soyaltepec,18.25251509,-96.43906766,1237-San Miguel Soyaltepec,4092,1,24.43792766,7.155

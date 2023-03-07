@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2011,11,17,C00,Women,2,>65,Guanajuato,Gto.,592953,290770,302183,151961,11,17,Irapuato,20.6998135,-101.3683208,420-Irapuato,16507,1,6.058035985,0.497
+2011,11,31,C00,Men,1,>65,Guanajuato,Gto.,130871,63982,66889,32225,11,31,San Francisco del Rincón,20.91912408,-101.7885196,407-San Francisco del Rincón,2851,1,35.07541214,2.876

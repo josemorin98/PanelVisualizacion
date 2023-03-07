@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2014,14,25,C04,Men,1,45_64,Jalisco,Jal.,19689,9482,10207,5725,14,25,Colotlán,22.09170961,-103.2872011,617-Colotlán,1506,1,66.40106242,13.068
+2014,14,39,C04,Men,1,25_44,Jalisco,Jal.,1385629,666997,718632,398966,14,39,Guadalajara,20.67597105,-103.3358072,631-Guadalajara,217474,1,0.459825083,0.135

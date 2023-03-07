@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2007,29,44,C54,Women,2,>65,Tlaxcala,Tlax.,45717,21940,23777,11368,29,44,Zacatelco,19.19384801,-98.26038382,2053-Zacatelco,1141,1,87.64241893,7.187
+2007,29,9,C54,Women,2,45_64,Tlaxcala,Tlax.,5928,2902,3026,1521,29,9,Cuaxomulco,19.34998887,-98.09162805,2019-Cuaxomulco,334,1,299.4011976,58.922

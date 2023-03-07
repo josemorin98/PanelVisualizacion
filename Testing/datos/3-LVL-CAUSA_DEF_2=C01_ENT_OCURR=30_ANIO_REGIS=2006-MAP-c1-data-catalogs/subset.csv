@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2006,30,16,C01,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,28682,13737,14945,9177,30,16,La Antigua,19.31004918,-96.30902318,2087-La Antigua,2157,1,46.36068614,9.124
+2006,30,70,C01,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,18275,9148,9127,5308,30,70,Hidalgotitlán,17.55377158,-94.62128396,2141-Hidalgotitlán,1364,1,73.31378299,14.428

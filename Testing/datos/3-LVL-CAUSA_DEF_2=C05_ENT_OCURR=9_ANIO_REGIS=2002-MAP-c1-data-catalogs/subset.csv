@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2002,9,7,C05,Men,1,>65,Ciudad de M�xico,CDMX,1835486,887651,947835,504456,9,7,Iztapalapa,19.34916632,-99.05679896,342-Iztapalapa,31946,1,3.130282351,0.257
+2002,9,5,C05,Men,1,45_64,Ciudad de M�xico,CDMX,1173351,563874,609477,340301,9,5,Gustavo A. Madero,19.50406521,-99.11586421,338-Gustavo A. Madero,96107,1,1.040506935,0.205

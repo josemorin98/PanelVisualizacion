@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2008,30,38,C01,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,93911,45096,48815,27374,30,38,Coatepec,19.4475469,-96.93054619,2109-Coatepec,2579,1,38.77471888,3.18
+2008,30,118,C01,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,123182,56740,66442,37722,30,118,Orizaba,18.85586189,-97.10480787,2189-Orizaba,4988,1,20.04811548,1.644
+2008,30,34,C01,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,25011,11598,13413,7804,30,34,Cerro Azul,21.18737154,-97.76923097,2105-Cerro Azul,2438,1,41.01722724,8.072
+2008,30,204,C01,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,44104,21064,23040,13725,30,204,Agua Dulce,18.08486974,-94.16076183,2275-Agua Dulce,4036,1,24.77700694,4.876

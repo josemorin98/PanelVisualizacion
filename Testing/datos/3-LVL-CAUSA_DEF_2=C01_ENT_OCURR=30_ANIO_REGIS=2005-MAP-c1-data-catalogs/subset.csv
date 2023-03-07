@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2005,30,87,C01,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,488531,226821,261710,151306,30,87,Xalapa,19.54385763,-96.88833353,2158-Xalapa,9694,1,10.31565917,0.846
+2005,30,193,C01,Men,1,>65,Veracruz de Ignacio de la Llave,Ver.,607209,287664,319545,202144,30,193,Veracruz,19.18582634,-96.22166824,2264-Veracruz,12882,1,7.762769756,0.637
+2005,30,33,C01,Men,1,45_64,Veracruz de Ignacio de la Llave,Ver.,24421,11846,12575,7043,30,33,Cazones de Herrera,20.71444969,-97.28548255,2104-Cazones de Herrera,1871,1,53.44735436,10.518

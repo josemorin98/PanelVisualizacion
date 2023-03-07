@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2007,20,43,C05,Women,2,>65,Oaxaca,Oax.,113570,54616,58954,28774,20,43,Heroica Ciudad de Juchitán de Zaragoza,16.38160316,-94.93109275,1522-Heroica Ciudad de Juchitán de Zaragoza,2865,1,34.90401396,2.862
+2007,20,340,C05,Men,1,>65,Oaxaca,Oax.,1747,800,947,625,20,340,San Pedro y San Pablo Tequixtepec,18.08848582,-97.70629436,1052-San Pedro y San Pablo Tequixtepec,179,1,558.6592179,45.81
+2007,20,126,C05,Women,2,25_44,Oaxaca,Oax.,5396,2578,2818,1382,20,126,San Cristóbal Amatlán,16.30731885,-96.38300783,1285-San Cristóbal Amatlán,543,1,184.1620626,53.923

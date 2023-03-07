@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2007,7,87,C05,Women,2,>65,Chiapas,Chis.,41672,20481,21191,11045,7,87,Suchiate,14.63938353,-92.22712117,228-Suchiate,792,1,126.2626263,10.354
+2007,7,89,C05,Men,1,>65,Chiapas,Chis.,353706,171610,182096,96307,7,89,Tapachula,14.93396804,-92.30479679,159-Tapachula,7277,1,13.74192662,1.127
+2007,7,106,C05,Men,1,45_64,Chiapas,Chis.,67292,33499,33793,17906,7,106,Venustiano Carranza,16.3173126,-92.60789676,219-Venustiano Carranza,4157,1,24.05580948,4.734

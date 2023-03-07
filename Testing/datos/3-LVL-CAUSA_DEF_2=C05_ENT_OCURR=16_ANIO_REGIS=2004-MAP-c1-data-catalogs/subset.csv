@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2004,16,53,C05,Women,2,>65,Michoac�n de Ocampo,Mich.,849053,407129,441924,244509,16,53,Morelia,19.66658131,-101.2791185,835-Morelia,19684,1,5.080268238,0.417
+2004,16,112,C05,Women,2,>65,Michoac�n de Ocampo,Mich.,157056,75453,81603,40666,16,112,Zitácuaro,19.43822531,-100.3379489,810-Zitácuaro,4419,1,22.6295542,1.856
+2004,16,53,C05,Men,1,25_44,Michoac�n de Ocampo,Mich.,849053,407129,441924,244509,16,53,Morelia,19.66658131,-101.2791185,835-Morelia,91454,1,1.093445885,0.32

@@ -1,0 +1,5 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2018,20,103,C05,Men,1,>65,Oaxaca,Oax.,6064,2882,3182,1571,20,103,San Antonino Castillo Velasco,16.81393718,-96.69254034,1516-San Antonino Castillo Velasco,247,1,404.8582996,33.198
+2018,20,141,C05,Men,1,>65,Oaxaca,Oax.,8710,4374,4336,2459,20,141,San Francisco del Mar,16.23271861,-94.47040972,1524-San Francisco del Mar,289,1,346.0207612,28.374
+2018,20,184,C05,Women,2,>65,Oaxaca,Oax.,159452,75967,83485,47234,20,184,San Juan Bautista Tuxtepec,18.02855889,-96.09253795,1270-San Juan Bautista Tuxtepec,5433,1,18.40603718,1.509
+2018,20,244,C05,Men,1,45_64,Oaxaca,Oax.,3934,1891,2043,1051,20,244,San Martín Toxpalan,18.10739696,-97.03090383,1089-San Martín Toxpalan,311,1,321.5434084,63.28

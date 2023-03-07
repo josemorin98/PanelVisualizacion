@@ -1,0 +1,4 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2015,15,1,C01,Men,1,>65,M�xico,Mex.,67872,32617,35255,17393,15,1,Acambay de Ruíz Castañeda,19.97294169,-99.87153026,12-Acambay de Ruíz Castañeda,2354,1,42.4808836,3.483
+2015,15,81,C01,Men,1,>65,M�xico,Mex.,547503,265520,281983,164401,15,81,Tecámac,19.70583651,-98.98650784,753-Tecámac,7881,1,12.68874508,1.04
+2015,15,33,C01,Men,1,45_64,M�xico,Mex.,1645352,798549,846803,448688,15,33,Ecatepec de Morelos,19.57278373,-99.04321174,735-Ecatepec de Morelos,169420,1,0.590249085,0.116

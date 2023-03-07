@@ -1,0 +1,3 @@
+ANIO_REGIS,ENT_OCURR,MUN_OCURR,CAUSA_DEF_2,SEXO_LABEL,SEXO_ID,RANGO_EDAD,nombre entidad,Nombre Abreviado de AGEE,Poblacion total,Poblacion masculina,Poblacion femenina,Total de viviendas habitadas,CVE_ENT,CVE_MUN,nombre municipio,lat,lon,id_mun,POBLACION_MUN,cve,TASA_CRUDA,TASA_AJUSTADA
+2010,13,51,C03,Women,2,>65,Hidalgo,Hgo.,202749,96259,106490,63897,13,51,Mineral de la Reforma,20.05899051,-98.71970365,544-Mineral de la Reforma,2425,1,41.2371134,3.381
+2010,13,76,C03,Women,2,45_64,Hidalgo,Hgo.,115107,55588,59519,33335,13,76,Tula de Allende,20.06412923,-99.3767425,579-Tula de Allende,9256,1,10.80380294,2.126
